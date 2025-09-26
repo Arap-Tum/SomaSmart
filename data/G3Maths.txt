@@ -1,0 +1,677 @@
+INTRODUCTION
+This source presents a **Grade 3 Mathematics Activities Pupil's Book** *.  covering fundamental mathematical concepts such as **numbers, measurement, and geometry**. 
+The content systematically progresses through topics like **number concepts, whole numbers, fractions, addition, subtraction, multiplication, and division**, it introduces **length, mass, capacity, time, and money**, alongside **position, direction, and shapes**, concluding with practice exercises.
+
+The essential mathematical skills introduced for low vision pupils, as outlined in the Grade 3 Pupil's Book, cover the key areas of Numbers, Measurement, and Geometry.
+
+### I. Numbers
+
+The curriculum emphasizes a strong foundation in number concepts, operations, and patterns across the three terms:
+
+**A. Number Concept and Whole Numbers**
+*   **Position:** Learners are taught to name and identify positions, including ordinal numbers from **first** up to **twelfth** or **twentieth** (e.g., matching rally cars colors to position or naming the position of animals in a picture).
+*   **Counting and Number Patterns:** Skills include counting forward and backward in ones, twos, fives, and tens. A significant focus is placed on identifying and completing number patterns using rules involving addition (e.g., adding 2, 5, 10, 50, or 100) or subtraction (e.g., subtracting 4, 5, 10, 50, or 150).
+*   **Place Value:** Pupils learn to represent whole numbers, starting with **Tens and Ones**, and expanding to **Hundreds, Tens, and Ones**. Later, the concept of **Thousands** is introduced. Instructional methods utilize tools such as abacus, place value charts, and bundles of sticks.
+*   **Reading and Writing Numbers:** Learners practice reading numbers in symbols from 1 to 1000 and converting numbers to words (e.g., "twenty five," "seventy nine," "one hundred").
+
+**B. Fractions**
+*   **Concept Introduction:** A fraction is defined as a **part of a whole** or a **part of a group**.
+*   **Specific Fractions:** Introduction to recognizing and representing a **half** ($\frac{1}{2}$), a **quarter** ($\frac{1}{4}$), and an **eighth** ($\frac{1}{8}$). Activities involve folding, cutting, drawing, and shading equal parts of manilla paper cut-outs.
+*   **Fraction Operations and Comparison:** Skills involve finding a fraction of a group (e.g., finding half of 20, a quarter of 32, or an eighth of 24) and comparing the relative sizes of $\frac{1}{2}$, $\frac{1}{4}$, and $\frac{1}{8}$.
+
+**C. Operations**
+The four basic operations are comprehensively covered, often utilizing visual and tactile aids like the abacus, number lines, and bundles of sticks:
+*   **Addition:** Skills progress from adding three single-digit numbers to adding 3-digit numbers to 1-digit numbers, 2-digit numbers, and finally, adding two 3-digit numbers. The use of **regrouping** (carrying) is central to these skills.
+*   **Subtraction:** Skills range from subtracting a 1-digit number from 2-digit numbers up to subtracting two 3-digit numbers. Learners are taught **regrouping** (borrowing) techniques. Skills also include subtracting multiples of 10.
+*   **Multiplication:** Introduced as **repeated addition**. Learners master multiplication facts up to $10 \times 10$ using the **multiplication table**.
+*   **Division:** Introduced conceptually through **repeated subtraction** and using the **number line**. Division skills are later taught by establishing the **relationship between division and multiplication** using the multiplication table. Division is also practiced in long form.
+
+### II. Measurement
+
+Learners are introduced to four key types of measurement and related operations:
+
+*   **Length:** Measured in **metres**. Skills include measuring lengths of classroom objects and adding/subtracting lengths in metres. Estimating length is also an important activity.
+*   **Mass:** Measured in **kilograms (kg)**. Skills include measuring mass using 1 kg masses and a beam balance. Learners practice estimating mass and adding or subtracting masses in kilograms.
+*   **Capacity:** Measured in **litres**. Skills include using a 1-litre container to measure the capacity of different vessels (e.g., buckets, jugs). Estimation, addition, and subtraction of capacity in litres are taught.
+*   **Time:** Focuses on the clock face, identifying the **hour hand** and **minute hand**. Learners practice reading and telling time by the hour ("o'clock"), time **"past"** the hour (e.g., half past, quarter past), and time **"to"** the hour (e.g., 20 minutes to 10). They also learn to add and subtract time expressed in hours and minutes.
+*   **Money:** Learners identify Kenyan currency notes (Sh. 50 to Sh. 1000). Practical skills involve **counting money**, handling **change** (denominational exchange), and calculating the **balance** (subtraction in shopping activities). They also learn about **spending and saving** and distinguishing between **goods and services** and **needs and wants**.
+
+### III. Geometry
+
+The geometry section includes basic spatial awareness and shape recognition:
+
+*   **Position and Direction:** Skills involve interpreting movement and location using pictures/maps, specifically practicing turning to the **right** and turning to the **left** to navigate between points (e.g., school, hospital, bank).
+*   **Shapes and Patterns:** Learners identify common geometric shapes and differentiate between **straight** and **curved** lines (e.g., determining the lines that make up a rectangle or an oval). They also work on **pattern making** using shapes.
+
+introduces several key mathematical concepts across three terms, which are generally revisited and expanded upon in each subsequent term.
+Here is a summary of the key mathematical concepts and their child-friendly definitions:
+1. NUMBERS
+• Number Concept
+    ◦ Definition: This is about understanding the order of things, like who is first, second, or third in a line. It also teaches you to count numbers forwards and backwards, and recognise their positions.
+• Whole Numbers
+    ◦ Definition: These are the regular counting numbers like 1, 2, 3, and so on, including zero. You learn how to count them, put them in order, find patterns, and understand what each digit means in a number, such as how many tens or hundreds there are. You also practice writing numbers as words and symbols.
+• Fractions
+    ◦ Definition: Fractions are parts of a whole thing or a group. For example, if you cut an apple into two equal parts, each part is a "half" (1/2). If you cut it into four equal parts, each part is a "quarter" (1/4). You also learn how to compare which fraction is bigger or smaller.
+• Addition
+    ◦ Definition: Addition is putting numbers together to find a total amount. You learn how to add small numbers and bigger numbers, even when you need to "carry over" to the next place value, like when 10 ones become 1 ten. It includes adding single-digit, two-digit, and three-digit numbers.
+• Subtraction
+    ◦ Definition: Subtraction is taking one number away from another to find how many are left or the difference between them. You practice taking away small numbers and larger numbers, and sometimes you need to "borrow" from a bigger place value to make it work. It covers subtracting single-digit, two-digit, and three-digit numbers.
+• Multiplication
+    ◦ Definition: Multiplication is a quick way to add the same number many times. It's like having groups of things, and you want to know the total. You can use a multiplication table to help find the answer quickly. It covers multiplying single-digit numbers and by 10.
+• Division
+    ◦ Definition: Division is sharing things equally into groups, or finding out how many times one number fits into another. It's like doing multiplication backwards! You can think of it as repeatedly taking away the same number, or using a multiplication table.
+2. MEASUREMENT
+• Length
+    ◦ Definition: Length is how long something is, or the distance from one end to the other. You measure length using units like metres, and you also learn how to guess how long something is (estimate) and then check your guess. You can also add and subtract different lengths.
+• Mass
+    ◦ Definition: Mass is how heavy something is. You measure mass in kilograms (kg), often using a balance scale. You also practice guessing how heavy something is (estimating), checking your guess, and adding and subtracting different weights.
+• Capacity
+    ◦ Definition: Capacity is how much liquid a container can hold, like how much water a bottle can fit. You measure capacity using litres. You learn to guess how much a container can hold (estimate) and then measure it to check, and also add and subtract volumes of liquids.
+• Time
+    ◦ Definition: Time is about knowing when things happen. You learn to read clocks with hour and minute hands to tell the hour and minutes, like "3 o'clock," "half past 2," or "quarter to 12." You also learn how to add and subtract amounts of time.
+• Money
+    ◦ Definition: Money is what we use to buy things. You learn about different money notes (like Kenyan shillings), how to count money, and how to get "change" (smaller money back) or understand the "balance" (money left over) after buying something. You also explore the concepts of needs, wants, spending, and saving money, and adding and subtracting money.
+3. GEOMETRY
+• Position and Direction
+    ◦ Definition: Position and Direction is about knowing where things are and how to move from one place to another. You learn how to follow instructions like turning right or left to find your way to places like school, the bank, or a shop.
+• Shapes
+    ◦ Definition: Shapes are the different forms we see, like rectangles, triangles, and ovals. You learn to name them and see if they are made of straight lines or curved lines. You also learn to create patterns using different shapes
+
+
+    Certainly, let's delve deeper into the types of calculations and the methods used in the Grade 3 mathematics curriculum for learners with low vision, as presented in the sources. The curriculum emphasizes **step-by-step procedures** and often incorporates **visual or tangible aids** such as abacuses, bundles of sticks, number lines, and place value charts to support understanding.
+
+Here's a detailed look at calculations across various mathematical concepts:
+
+### 1. NUMBERS
+
+**a. Whole Numbers: Counting and Number Patterns**
+The curriculum introduces counting in various intervals and identifying patterns, which are foundational to more complex calculations.
+*   **Counting in ones, twos, fives, and tens:** Learners practice filling in missing numbers in sequences, both forwards and backwards.
+    *   **Example (Counting forward in ones):** 105, 106, 107, ______, _______, 110, 111. (Answers: 108, 109)
+    *   **Example (Counting backwards in ones):** 600, 599, 598, ______, ______, 595, 594. (Answers: 597, 596)
+    *   **Example (Counting forward in twos):** 302, 304, 306, 308, 310, 312.
+    *   **Example (Counting backwards in twos):** 730, 728, 726, 724, 722, 720.
+    *   **Example (Counting forward in tens):** 80, 90, 100, 110, 120, 130, 140.
+    *   **Example (Number Pattern with rule identification):** For 422, 424, 426, 428, _____, ______. The rule is to add 2 to the previous number. So, the next numbers are 430 and 432.
+*   **Place Value:** Learners calculate the value of digits in a number.
+    *   **Example (Tens and Ones):** 36 can be shown as 3 tens and 6 ones using bundles of sticks or an abacus. Similarly, 45 is 4 tens and 5 ones.
+    *   **Example (Hundreds, Tens, Ones):** The number 253 is shown as 2 hundreds, 5 tens, and 3 ones, both on a chart and an abacus. 798 is 7 hundreds, 9 tens, 8 ones.
+
+**b. Fractions: Calculating Parts of a Group**
+The curriculum introduces fractions by calculating a specific part of a given group.
+*   **Example (Half of a group):** Half of 4 = 2. This is illustrated by having a whole group of 4, then splitting it into two equal parts to show that each part is 2. Similarly, half of 6 is 3.
+*   **Example (Quarter of a group):** A group of 16 items can be divided into four equal groups, with one group representing a quarter. So, a quarter of 16 is 4.
+*   **Example (Eighth of a group):** An eighth of 32 items is found by dividing the group into eight equal parts, resulting in 4 items per part.
+
+**c. Addition: Combining Numbers**
+Addition is taught progressively, from single-digit to three-digit numbers, with and without regrouping (carrying over). Visual aids are frequently employed.
+*   **Adding 3-digit number to a 1-digit number (without regrouping):**
+    *   **Using an Abacus:** To calculate **471 + 3**:
+        1.  Represent 471 on the abacus (1 ring in ones, 7 in tens, 4 in hundreds).
+        2.  Add 3 rings to the ones spike, making 4 rings.
+        3.  The result is 4 rings in ones, 7 in tens, and 4 in hundreds, so **474**.
+*   **Adding 3-digit number to a 1-digit number (with regrouping):**
+    *   **Using an Abacus:** To calculate **687 + 4**:
+        1.  Represent 687 on the abacus (7 rings in ones, 8 in tens, 6 in hundreds).
+        2.  Add 4 rings to the ones spike, resulting in 11 rings.
+        3.  Remove 10 rings from the ones spike and add 1 ring to the tens spike (regrouping). This leaves 1 ring in the ones spike and makes 9 rings in the tens spike.
+        4.  The result is 6 hundreds, 9 tens, and 1 one, so **691**.
+    *   **Column Method:** For **687 + 8**:
+        1.  Add ones: 7 + 8 = 15. Regroup 15 as 1 ten and 5 ones. Write 5 in the ones column, take 1 to the tens column.
+        2.  Add tens: 1 (carried over) + 8 = 9. Write 9 in the tens place.
+        3.  Bring down 6 hundreds. The answer is **695**.
+*   **Adding 3-digit number to a 2-digit number (without regrouping):**
+    *   **Using a Place Value Chart:** For **423 + 14**:
+        1.  Align numbers by place value.
+        2.  Add ones: 3 + 4 = 7.
+        3.  Add tens: 2 + 1 = 3.
+        4.  Bring down 4 hundreds. The answer is **437**.
+*   **Adding 3-digit number to a 2-digit number (with regrouping):**
+    *   **Using an Abacus:** For **354 + 28**:
+        1.  Represent 354 and 28 on the abacus.
+        2.  Add 4 rings to 8 rings in the ones spike, getting 12 rings.
+        3.  Regroup 12 rings as 1 ten and 2 ones. Remove 10 rings from ones, add 1 ring to tens, resulting in 8 rings in tens, 2 in ones.
+        4.  The result is 3 hundreds, 8 tens, 2 ones, so **382**.
+    *   **Column Method:** For **246 + 37**:
+        1.  Add ones: 6 + 7 = 13. Regroup as 1 ten and 3 ones. Write 3, carry 1 to tens.
+        2.  Add tens: 1 (carried over) + 4 + 3 = 8. Write 8.
+        3.  Bring down 2 hundreds. The answer is **283**.
+*   **Adding Three Single-Digit Numbers:**
+    *   **Using a Number Line:** For **3 + 4 + 2**:
+        1.  Start at 0, skip 3 steps forward to 3.
+        2.  Skip another 4 steps forward to 7.
+        3.  Skip another 2 steps forward to 9. The final point is 9. So, **3 + 4 + 2 = 9**.
+*   **Adding Two 3-Digit Numbers (without regrouping):**
+    *   **Using Place Value Tins (Sticks):** For **342 + 125**:
+        1.  Represent 342 with sticks in hundreds, tens, and ones tins.
+        2.  Add 125 by adding sticks to corresponding tins.
+        3.  Count the total sticks: 7 in ones, 6 in tens, 4 in hundreds. The answer is **467**.
+*   **Adding Two 3-Digit Numbers (with regrouping):**
+    *   **Column Method:** For **235 + 147**:
+        1.  Add ones: 5 + 7 = 12. Regroup as 1 ten and 2 ones. Write 2, carry 1 to tens.
+        2.  Add tens: 1 (carried over) + 3 + 4 = 8. Write 8.
+        3.  Add hundreds: 2 + 1 = 3. Write 3. The answer is **382**.
+    *   **Example with multiple regrouping:** For **267 + 452**:
+        1.  Add ones: 7 + 2 = 9.
+        2.  Add tens: 6 + 5 = 11. Regroup as 1 hundred and 1 ten. Write 1, carry 1 to hundreds.
+        3.  Add hundreds: 1 (carried over) + 2 + 4 = 7. Write 7. The answer is **719**.
+
+**d. Subtraction: Taking Numbers Away**
+Subtraction also progresses with and without regrouping (borrowing), often demonstrating techniques with tangible aids.
+*   **Subtracting 1-digit number from a 2-digit number (without regrouping):**
+    *   **Column Method:** For **28 - 3**:
+        1.  Subtract ones: 8 - 3 = 5.
+        2.  Bring down 2 tens. The answer is **25**.
+*   **Subtracting Two 2-digit numbers (without regrouping):**
+    *   **Using an Abacus:** For **57 - 23**:
+        1.  Represent 57 on the abacus.
+        2.  Remove 3 rings from ones and 2 rings from tens.
+        3.  Count remaining rings: 4 in ones, 3 in tens. The answer is **34**.
+*   **Subtracting 1-digit number from a 2-digit number (with regrouping):**
+    *   **Using Bundles of Sticks:** For **36 - 7**:
+        1.  Represent 36 as 3 bundles of tens and 6 single sticks.
+        2.  Cannot take 7 sticks from 6 sticks. Untie 1 bundle of tens to get 10 single sticks. Add to 6 single sticks to make 16.
+        3.  Remove 7 single sticks from 16, leaving 9 single sticks.
+        4.  Count remaining: 2 bundles of tens and 9 single sticks. The answer is **29**.
+    *   **Column Method:** For **63 - 4**:
+        1.  Cannot subtract 4 ones from 3 ones. Regroup 6 tens as 5 tens and 10 ones. Add 10 ones to 3 ones to get 13 ones.
+        2.  Subtract 4 ones from 13 ones to get 9 ones.
+        3.  Bring down the remaining 5 tens. The answer is **59**.
+*   **Subtracting Two 2-digit numbers (with regrouping):**
+    *   **Column Method:** For **44 - 27**:
+        1.  Cannot subtract 7 ones from 4 ones. Regroup 4 tens as 3 tens and 10 ones. Add 10 ones to 4 ones to get 14 ones.
+        2.  Subtract 7 ones from 14 ones to get 7 ones.
+        3.  Subtract 2 tens from the remaining 3 tens to get 1 ten. The answer is **17**.
+*   **Subtracting Multiples of 10:**
+    *   **Using a Number Line:** For **50 - 30**:
+        1.  Start at 50 on the number line.
+        2.  Skip backwards 3 steps of tens (10, 20, 30).
+        3.  Land at 20. The answer is **20**.
+*   **Subtracting 2-digit number from a 3-digit number (without regrouping):**
+    *   **Column Method:** For **539 - 16**:
+        1.  Subtract ones: 9 - 6 = 3.
+        2.  Subtract tens: 3 - 1 = 2.
+        3.  Record 5 in hundreds. The answer is **523**.
+*   **Subtracting 3-digit number from a 3-digit number (with regrouping):**
+    *   **Column Method:** For **416 - 245**:
+        1.  Subtract ones: 6 - 5 = 1.
+        2.  Cannot subtract 4 tens from 1 ten. Regroup 4 hundreds as 3 hundreds and 10 tens. Add 10 tens to 1 ten to get 11 tens.
+        3.  Subtract 4 tens from 11 tens to get 7 tens.
+        4.  Subtract 2 hundreds from the remaining 3 hundreds to get 1 hundred. The answer is **171**.
+
+**e. Multiplication: Repeated Addition and Tables**
+Multiplication is introduced as repeated addition and through the use of multiplication tables.
+*   **Repeated Addition:**
+    *   **Example:** To calculate **2 x 3**: This is shown as 3 + 3 = 6.
+    *   **Example:** To calculate **3 x 4**: This is shown as 4 + 4 + 4 = 12.
+*   **Using a Multiplication Table:**
+    *   **Example:** To calculate **7 x 5**:
+        1.  Find 7 in the first row and 5 in the first column of the table.
+        2.  Move along the row and column until they meet.
+        3.  The number where they meet is 35. So, **7 x 5 = 35**.
+    *   **Multiplication by 10:** The table is used to show, for example, that **7 x 10 = 70**.
+*   **Word Problems:** Calculations are applied in context, e.g., if a pencil costs Sh. 10, 5 pencils cost 5 x Sh. 10 = Sh. 50.
+
+**f. Division: Repeated Subtraction and Tables**
+Division is taught as repeated subtraction and by relating it to multiplication tables.
+*   **Repeated Subtraction:**
+    *   **Example:** To calculate **8 ÷ 2**:
+        1.  Subtract 2 from 8 repeatedly: 8 - 2 = 6 (1 time), 6 - 2 = 4 (2 times), 4 - 2 = 2 (3 times), 2 - 2 = 0 (4 times).
+        2.  Since 2 was subtracted 4 times, **8 ÷ 2 = 4**.
+    *   **Using a Number Line:** For **12 ÷ 3**:
+        1.  Start at 12 and skip backwards in 3s (12 to 9, 9 to 6, 6 to 3, 3 to 0).
+        2.  Count the number of skips made (4 skips). So, **12 ÷ 3 = 4**.
+*   **Using a Multiplication Table (Relationship to Multiplication):**
+    *   **Example:** To calculate **24 ÷ 6**:
+        1.  Using the multiplication table, find 24.
+        2.  Move across to find 6 in the first column, and up to find 4 in the first row.
+        3.  This shows that 6 x 4 = 24, therefore **24 ÷ 6 = 4**.
+    *   **Long Division Format:** For **32 ÷ 4**:
+        1.  Write in long division format.
+        2.  Use the multiplication table to find what number multiplied by 4 gives 32 (which is 8).
+        3.  Write 8 on top of the division sign. Multiply 8 by 4 (32) and subtract from 32 to get 00. So, **32 ÷ 4 = 8**.
+
+### 2. MEASUREMENT (Involving Calculations)
+
+Calculations are also integrated into measurement topics, applying the basic operations.
+
+*   **Length:**
+    *   **Adding Lengths:** If a distance is 270m and another is 170m, their total is 270m + 170m = 440m.
+    *   **Subtracting Lengths:** If a string is 64m long and 31m is used, 64m - 31m = 33m remains. Another example is 625m - 450m = 175m.
+*   **Mass:**
+    *   **Adding Mass:** Total mass of 5kg potatoes and 3kg maize is 5kg + 3kg = 8kg.
+    *   **Subtracting Mass:** If Halima has 18kg of potatoes and gives away 5kg, she is left with 18kg - 5kg = 13kg.
+*   **Capacity:**
+    *   **Adding Capacity:** If John buys 4 litres of milk and his grandmother brings 3 litres, he has 4 litres + 3 litres = 7 litres.
+    *   **Subtracting Capacity:** A car with 26 litres of petrol that uses 14 litres will have 26 litres - 14 litres = 12 litres left.
+*   **Time:**
+    *   **Adding Time:** If John cycles for 2 hours 45 minutes and Rose walks for 4 hours 5 minutes, altogether they use 2 hrs 45 mins + 4 hrs 5 mins = 6 hours 50 minutes.
+    *   **Subtracting Time:** If Mr. Omolo takes 1 hour 45 minutes and Miss Claire takes 1 hour 15 minutes, the difference is 1 hr 45 mins - 1 hr 15 mins = 30 minutes.
+*   **Money:**
+    *   **Adding Money:** Sh. 50 + Sh. 100 = Sh. 150. Peter spent Sh. 176 on sugar and Sh. 206 on flour, totalling Sh. 176 + Sh. 206 = Sh. 382.
+    *   **Subtracting Money (Balance/Change):** If Jane has a Sh. 500 note and buys a book for Sh. 300, her change/balance is Sh. 500 - Sh. 300 = Sh. 200. Maurice had Sh. 32 and spent Sh. 16, leaving him with Sh. 32 - Sh. 16 = Sh. 16.
+
+The curriculum consistently demonstrates calculations through explicit examples, often broken down into numbered steps, making the learning process clear and accessible for low vision learners. These methods are designed to build a solid understanding of fundamental arithmetic operations and their practical application.
+
+
+
+Based on the excerpts from the Grade 3 Pupil's Book for Learners with Low Vision, here are the extracted word problems, organized by Term and Section, along with their step-by-step solutions.
+
+***
+
+## TERM I
+
+### I. NUMBERS: Addition
+
+#### Week 5 Lesson 3
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **9.** | Juma had 468 party chairs. He bought 125 party chairs. How many party chairs does he have altogether? | **Operation:** Addition ($468 + 125$)<br><br>**Step 1: Add the Ones.** 8 ones + 5 ones = 13 ones. Write down 3 and carry 1 ten.<br>**Step 2: Add the Tens.** (1 carried ten) + 6 tens + 2 tens = 9 tens. Write down 9.<br>**Step 3: Add the Hundreds.** 4 hundreds + 1 hundred = 5 hundreds. Write down 5.<br>**Answer:** Juma has 593 party chairs altogether. |
+| **10.** | Asha had 135 kg of flour. Fatuma gave her 180 kg. How many kg does she have altogether? | **Operation:** Addition ($135 + 180$)<br><br>**Step 1: Add the Ones.** 5 ones + 0 ones = 5 ones. Write down 5.<br>**Step 2: Add the Tens.** 3 tens + 8 tens = 11 tens. Write down 1 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** (1 carried hundred) + 1 hundred + 1 hundred = 3 hundreds. Write down 3.<br>**Answer:** She has 315 kg of flour altogether. |
+
+### II. NUMBERS: Subtraction
+
+#### Week 5 Lesson 5 (Subtracting a 1-digit number from a 2-digit number)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **9.** | A box contains 25 pieces of soap. Grade 3 learners used 5 pieces to wash their hands. How many pieces remained? | **Operation:** Subtraction ($25 - 5$)<br><br>**Step 1: Subtract the Ones.** 5 ones – 5 ones = 0 ones. Write down 0.<br>**Step 2: Subtract the Tens.** Bring down 2 tens.<br>**Answer:** 20 pieces remained. |
+| **10.** | A poultry keeper had 83 chicken. She ate two. How many remained? | **Operation:** Subtraction ($83 - 2$)<br><br>**Step 1: Subtract the Ones.** 3 ones – 2 ones = 1 one. Write down 1.<br>**Step 2: Subtract the Tens.** Bring down 8 tens.<br>**Answer:** 81 chicken remained. |
+
+#### Week 6 Lesson 1 (Subtracting two 2-digit numbers)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **8.** | A class has 45 pupils. The number of boys is 30. How many girls are in that class? | **Operation:** Subtraction ($45 - 30$)<br><br>**Step 1: Subtract the Ones.** 5 ones – 0 ones = 5 ones. Write down 5.<br>**Step 2: Subtract the Tens.** 4 tens – 3 tens = 1 ten. Write down 1.<br>**Answer:** There are 15 girls in that class. |
+| **9.** | Andrew bought 88 story books. He gave 43 to Grade 3 learners. How many remained? | **Operation:** Subtraction ($88 - 43$)<br><br>**Step 1: Subtract the Ones.** 8 ones – 3 ones = 5 ones. Write down 5.<br>**Step 2: Subtract the Tens.** 8 tens – 4 tens = 4 tens. Write down 4.<br>**Answer:** 45 story books remained. |
+| **10.** | Morris had 54 bags of cement. Violet borrowed 32 bags. How many were left? | **Operation:** Subtraction ($54 - 32$)<br><br>**Step 1: Subtract the Ones.** 4 ones – 2 ones = 2 ones. Write down 2.<br>**Step 2: Subtract the Tens.** 5 tens – 3 tens = 2 tens. Write down 2.<br>**Answer:** 22 bags were left. |
+
+#### Week 6 Lesson 2 (Subtracting a 1-digit number from a 2-digit number with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **9.** | Boaz had 16 rabbits. He gave nine to his friends. How many was he left with? | **Operation:** Subtraction ($16 - 9$)<br><br>**Step 1: Regroup.** Regroup 1 ten from 16 to 10 ones, making 16 ones total.<br>**Step 2: Subtract the Ones.** 16 ones – 9 ones = 7 ones. Write down 7.<br>**Step 3: Subtract the Tens.** 0 tens remained. Write down 0 (or leave blank).<br>**Answer:** He was left with 7 rabbits. |
+| **10.** | A shopkeeper had a tray of 30 eggs. He sold five eggs. How many eggs remained? | **Operation:** Subtraction ($30 - 5$)<br><br>**Step 1: Regroup.** Regroup 1 ten from 3 tens (30 becomes 2 tens and 10 ones).<br>**Step 2: Subtract the Ones.** 10 ones – 5 ones = 5 ones. Write down 5.<br>**Step 3: Subtract the Tens.** 2 tens – 0 tens = 2 tens. Write down 2.<br>**Answer:** 25 eggs remained. |
+
+#### Week 6 Lesson 3 (Subtracting two 2-digit numbers with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **8.** | A teacher bought 82 mangoes to give to pupils on athletics day. The teacher gave out 49 mangoes. How many mangoes remained? | **Operation:** Subtraction ($82 - 49$)<br><br>**Step 1: Regroup.** Regroup 1 ten (8 tens becomes 7 tens, 2 ones become 12 ones).<br>**Step 2: Subtract the Ones.** 12 ones – 9 ones = 3 ones. Write down 3.<br>**Step 3: Subtract the Tens.** 7 tens – 4 tens = 3 tens. Write down 3.<br>**Answer:** 33 mangoes remained. |
+| **9.** | A mobile phone shop had 82 phones in the morning. By evening, 53 phones had been sold. How many phones remained? | **Operation:** Subtraction ($82 - 53$)<br><br>**Step 1: Regroup.** Regroup 1 ten (8 tens becomes 7 tens, 2 ones become 12 ones).<br>**Step 2: Subtract the Ones.** 12 ones – 3 ones = 9 ones. Write down 9.<br>**Step 3: Subtract the Tens.** 7 tens – 5 tens = 2 tens. Write down 2.<br>**Answer:** 29 phones remained. |
+| **10.** | Ouma bought 83 bananas to sell. Seventeen bananas were spoilt. How many bananas did he sell? | **Operation:** Subtraction ($83 - 17$)<br><br>**Step 1: Regroup.** Regroup 1 ten (8 tens becomes 7 tens, 3 ones become 13 ones).<br>**Step 2: Subtract the Ones.** 13 ones – 7 ones = 6 ones. Write down 6.<br>**Step 3: Subtract the Tens.** 7 tens – 1 ten = 6 tens. Write down 6.<br>**Answer:** He sold 66 bananas. |
+
+#### Week 6 Lesson 4 (Subtracting multiples of 10)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **9.** | A school had 90 plates. Thirty plates were broken. How many remained? | **Operation:** Subtraction ($90 - 30$)<br><br>**Step 1: Subtract the Ones.** 0 ones – 0 ones = 0 ones. Write down 0.<br>**Step 2: Subtract the Tens.** 9 tens – 3 tens = 6 tens. Write down 6.<br>**Answer:** 60 plates remained. |
+| **10.** | Alex had 20 shirts. He gave 10 shirts to his brother. How many was he left with? | **Operation:** Subtraction ($20 - 10$)<br><br>**Step 1: Subtract the Ones.** 0 ones – 0 ones = 0 ones. Write down 0.<br>**Step 2: Subtract the Tens.** 2 tens – 1 ten = 1 ten. Write down 1.<br>**Answer:** He was left with 10 shirts. |
+
+#### Week 6 Lesson 5 (Subtracting a 2-digit number from a 3-digit number)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **7.** | Muga has sh. 896. He spent sh. 64. How much money was he left with? | **Operation:** Subtraction ($896 - 64$)<br><br>**Step 1: Subtract the Ones.** 6 ones – 4 ones = 2 ones. Write down 2.<br>**Step 2: Subtract the Tens.** 9 tens – 6 tens = 3 tens. Write down 3.<br>**Step 3: Subtract the Hundreds.** 8 hundreds – 0 hundreds = 8 hundreds. Write down 8.<br>**Answer:** He was left with sh. 832. |
+| **8.** | Albert’s shop had 572 pairs of trousers. He sold 51 pairs. How many remained? | **Operation:** Subtraction ($572 - 51$)<br><br>**Step 1: Subtract the Ones.** 2 ones – 1 one = 1 one. Write down 1.<br>**Step 2: Subtract the Tens.** 7 tens – 5 tens = 2 tens. Write down 2.<br>**Step 3: Subtract the Hundreds.** 5 hundreds – 0 hundreds = 5 hundreds. Write down 5.<br>**Answer:** 521 pairs remained. |
+| **9.** | Judy had 158 litres of paraffin to sell. She sold 33 litres. How many litres remained? | **Operation:** Subtraction ($158 - 33$)<br><br>**Step 1: Subtract the Ones.** 8 ones – 3 ones = 5 ones. Write down 5.<br>**Step 2: Subtract the Tens.** 5 tens – 3 tens = 2 tens. Write down 2.<br>**Step 3: Subtract the Hundreds.** 1 hundred – 0 hundreds = 1 hundred. Write down 1.<br>**Answer:** 125 litres remained. |
+| **10.** | The total number of teachers and learners in a school is 265. There are 12 teachers. How many learners are there in the school? | **Operation:** Subtraction ($265 - 12$)<br><br>**Step 1: Subtract the Ones.** 5 ones – 2 ones = 3 ones. Write down 3.<br>**Step 2: Subtract the Tens.** 6 tens – 1 ten = 5 tens. Write down 5.<br>**Step 3: Subtract the Hundreds.** 2 hundreds – 0 hundreds = 2 hundreds. Write down 2.<br>**Answer:** There are 253 learners in the school. |
+
+### III. MEASUREMENT: Money (Change and Balance)
+
+#### Week 10 Lesson 5 (Denominational Exchange/Change)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 1** | John has a sh.100 note. How many sh. 50 notes will be get? | **Operation:** Division ($100 \div 50$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 50 shillings fits into 100 shillings.<br>**Calculation:** $100 \div 50 = 2$.<br>**Answer:** John will get two sh.50 notes. |
+| **Example 2** | Jane has a sh. 200 note. How many sh. 50 notes will she get? | **Operation:** Division ($200 \div 50$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 50 shillings fits into 200 shillings.<br>**Calculation:** $200 \div 50 = 4$.<br>**Answer:** Jane will get four sh. 50 notes. |
+| **1.** | Asha has a sh. 1000 note. How many sh. 500 notes will she get? | **Operation:** Division ($1000 \div 500$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 500 shillings fits into 1000 shillings.<br>**Calculation:** $1000 \div 500 = 2$.<br>**Answer:** She will get 2 sh. 500 notes. |
+| **2.** | Salim has a sh. 200 note. How many sh. 100 notes will he get? | **Operation:** Division ($200 \div 100$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 100 shillings fits into 200 shillings.<br>**Calculation:** $200 \div 100 = 2$.<br>**Answer:** He will get 2 sh. 100 notes. |
+| **3.** | James has a sh. 500 not. How many sh. 100 notes will he get? | **Operation:** Division ($500 \div 100$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 100 shillings fits into 500 shillings.<br>**Calculation:** $500 \div 100 = 5$.<br>**Answer:** He will get 5 sh. 100 notes. |
+| **4.** | Judy has a sh. 100 note. How many sh. 50 notes will she get? | **Operation:** Division ($100 \div 50$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 50 shillings fits into 100 shillings.<br>**Calculation:** $100 \div 50 = 2$.<br>**Answer:** She will get 2 sh. 50 notes. |
+
+#### Week 11 Lesson 1 (Shopping activities involving balance)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 1** | Jane has a sh. 500 note. She bought a book at sh. 300. How much money did she get back? | **Operation:** Subtraction ($500 - 300$)<br><br>**Step 1: Set up the subtraction.** Subtract the cost (sh. 300) from the amount paid (sh. 500).<br>**Calculation:** $500 - 300 = 200$.<br>**Answer:** She got sh. 200 back. |
+| **Example 2** | Peter had a sh. 200 note. He bought a bag at sh. 180. What was his balance? | **Operation:** Subtraction ($200 - 180$)<br><br>**Step 1: Set up the subtraction.** Subtract the cost (sh. 180) from the amount paid (sh. 200).<br>**Calculation:** $200 - 180 = 20$.<br>**Answer:** His balance is sh. 20. |
+| **1.** | Salim had a sh. 1000 note. He bought a chair for sh. 600. What was his balance? | **Operation:** Subtraction ($1000 - 600$)<br><br>**Step 1: Set up the subtraction.** Subtract the cost (sh. 600) from the amount paid (sh. 1000).<br>**Calculation:** $1000 - 600 = 400$.<br>**Answer:** His balance was sh. 400. |
+| **2.** | James had a sh. 500 note. He bought a table at sh. 450. What was the balance? | **Operation:** Subtraction ($500 - 450$)<br><br>**Step 1: Set up the subtraction.** Subtract the cost (sh. 450) from the amount paid (sh. 500).<br>**Calculation:** $500 - 450 = 50$.<br>**Answer:** The balance was sh. 50. |
+| **3.** | Asha had a sh. 200 note. She bought a book at sh. 125. What was her balance? | **Operation:** Subtraction ($200 - 125$)<br><br>**Step 1: Regroup.** Regroup 1 hundred to 9 tens and 10 ones (200 becomes 1 hundred, 9 tens, 10 ones).<br>**Step 2: Subtract the Ones.** 10 ones – 5 ones = 5 ones.<br>**Step 3: Subtract the Tens.** 9 tens – 2 tens = 7 tens.<br>**Step 4: Subtract the Hundreds.** 1 hundred – 1 hundred = 0 hundreds.<br>**Answer:** Her balance was sh. 75. |
+| **4.** | Mary has a sh. 1000 note. She bought a dress for sh. 800. What was her balance? | **Operation:** Subtraction ($1000 - 800$)<br><br>**Step 1: Set up the subtraction.** Subtract the cost (sh. 800) from the amount paid (sh. 1000).<br>**Calculation:** $1000 - 800 = 200$.<br>**Answer:** Her balance was sh. 200. |
+| **5.** | Judy had sh. 100 note. She bought a pencil at shs. 30. What was her balance? | **Operation:** Subtraction ($100 - 30$)<br><br>**Step 1: Set up the subtraction.** Subtract the cost (sh. 30) from the amount paid (sh. 100).<br>**Calculation:** $100 - 30 = 70$.<br>**Answer:** Her balance was sh. 70. |
+
+***
+
+## TERM II
+
+### I. NUMBERS: Addition
+
+#### Week 4 Lesson 3
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **10.** | Peter had 246 bottles of soda in his shop. He bought another 70 bottles. How many bottles of soda does he have altogether? | **Operation:** Addition ($246 + 70$)<br><br>**Step 1: Add the Ones.** 6 ones + 0 ones = 6 ones. Write down 6.<br>**Step 2: Add the Tens.** 4 tens + 7 tens = 11 tens. Regroup 11 tens as 1 hundred and 1 ten. Write down 1 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** (1 carried hundred) + 2 hundreds = 3 hundreds. Write down 3.<br>**Answer:** He has 316 bottles of soda altogether. |
+
+### II. NUMBERS: Subtraction
+
+#### Week 5 Lesson 4 (Subtracting two 2-digit numbers)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **7.** | A school had 56 clean cups, thirty two cups were used. How many were not used? | **Operation:** Subtraction ($56 - 32$)<br><br>**Step 1: Subtract the Ones.** 6 ones – 2 ones = 4 ones. Write down 4.<br>**Step 2: Subtract the Tens.** 5 tens – 3 tens = 2 tens. Write down 2.<br>**Answer:** 24 cups were not used. |
+| **8.** | A head teacher had 49 mathematics books. She gave 25 to grade three learners. How many remained? | **Operation:** Subtraction ($49 - 25$)<br><br>**Step 1: Subtract the Ones.** 9 ones – 5 ones = 4 ones. Write down 4.<br>**Step 2: Subtract the Tens.** 4 tens – 2 tens = 2 tens. Write down 2.<br>**Answer:** 24 books remained. |
+| **9.** | A class of 55 learners visited an old peoples’ home. Twenty learners cleaned the rooms. The rest washed utensils. How many learners washed the utensils? | **Operation:** Subtraction ($55 - 20$)<br><br>**Step 1: Subtract the Ones.** 5 ones – 0 ones = 5 ones. Write down 5.<br>**Step 2: Subtract the Tens.** 5 tens – 2 tens = 3 tens. Write down 3.<br>**Answer:** 35 learners washed the utensils. |
+| **10.** | A school had 77 learners in one year. 25 learners were transferred. How many were left? | **Operation:** Subtraction ($77 - 25$)<br><br>**Step 1: Subtract the Ones.** 7 ones – 5 ones = 2 ones. Write down 2.<br>**Step 2: Subtract the Tens.** 7 tens – 2 tens = 5 tens. Write down 5.<br>**Answer:** 52 learners were left. |
+
+#### Week 5 Lesson 5 (Subtracting a single digit number from a 3-digit number)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **9.** | Eight hundred and ninety nine bags of maize were given to a zone. Kaloleni primary school received 6 bags. How many bags were left for the other schools? | **Operation:** Subtraction ($899 - 6$)<br><br>**Step 1: Subtract the Ones.** 9 ones – 6 ones = 3 ones. Write down 3.<br>**Step 2: Subtract the Tens.** Bring down 9 tens.<br>**Step 3: Subtract the Hundreds.** Bring down 8 hundreds.<br>**Answer:** 893 bags were left. |
+| **10.** | During a school tree planting day 349 trees were planted. Teachers planted 8 trees. How many trees did pupils plant? | **Operation:** Subtraction ($349 - 8$)<br><br>**Step 1: Subtract the Ones.** 9 ones – 8 ones = 1 one. Write down 1.<br>**Step 2: Subtract the Tens.** Bring down 4 tens.<br>**Step 3: Subtract the Hundreds.** Bring down 3 hundreds.<br>**Answer:** Pupils planted 341 trees. |
+
+#### Week 6 Lesson 1 (Subtracting two 2-digit numbers with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **1.** | A shopkeeper has 42 packets of biscuits. He sells 27 packets. How many packets were left? | **Operation:** Subtraction ($42 - 27$)<br><br>**Step 1: Regroup.** Regroup 1 ten (4 tens becomes 3 tens, 2 ones become 12 ones).<br>**Step 2: Subtract the Ones.** 12 ones – 7 ones = 5 ones. Write down 5.<br>**Step 3: Subtract the Tens.** 3 tens – 2 tens = 1 ten. Write down 1.<br>**Answer:** 15 packets were left. |
+| **2.** | A farmer harvested 64 bags of maize. He gave out 38 bags to a children's home. How many bags of maize were left? | **Operation:** Subtraction ($64 - 38$)<br><br>**Step 1: Regroup.** Regroup 1 ten (6 tens becomes 5 tens, 4 ones become 14 ones).<br>**Step 2: Subtract the Ones.** 14 ones – 8 ones = 6 ones. Write down 6.<br>**Step 3: Subtract the Tens.** 5 tens – 3 tens = 2 tens. Write down 2.<br>**Answer:** 26 bags of maize were left. |
+| **3.** | A Grade 3 class had 80 learners. One day 32 learners went for a trip. How many were left? | **Operation:** Subtraction ($80 - 32$)<br><br>**Step 1: Regroup.** Regroup 1 ten (8 tens becomes 7 tens, 0 ones become 10 ones).<br>**Step 2: Subtract the Ones.** 10 ones – 2 ones = 8 ones. Write down 8.<br>**Step 3: Subtract the Tens.** 7 tens – 3 tens = 4 tens. Write down 4.<br>**Answer:** 48 learners were left. |
+| **4.** | A matchbox had 32 sticks. In one week 14 were used. How many were left? | **Operation:** Subtraction ($32 - 14$)<br><br>**Step 1: Regroup.** Regroup 1 ten (3 tens becomes 2 tens, 2 ones become 12 ones).<br>**Step 2: Subtract the Ones.** 12 ones – 4 ones = 8 ones. Write down 8.<br>**Step 3: Subtract the Tens.** 2 tens – 1 ten = 1 ten. Write down 1.<br>**Answer:** 18 sticks were left. |
+
+#### Week 6 Lesson 2 (Subtracting a 1-digit number from a 3-digit number with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **1.** | Abdi had 615 kg of flour in his shop. He sold 6 kg. How many were left? | **Operation:** Subtraction ($615 - 6$)<br><br>**Step 1: Regroup.** Regroup 1 ten (1 ten becomes 0 tens, 5 ones become 15 ones).<br>**Step 2: Subtract the Ones.** 15 ones – 6 ones = 9 ones. Write down 9.<br>**Step 3: Subtract the Tens.** 0 tens – 0 tens = 0 tens. Write down 0.<br>**Step 4: Subtract the Hundreds.** Bring down 6 hundreds.<br>**Answer:** 609 kg were left. |
+| **2.** | Alex had 783 goats. 4 died. How many were left? | **Operation:** Subtraction ($783 - 4$)<br><br>**Step 1: Regroup.** Regroup 1 ten (8 tens becomes 7 tens, 3 ones become 13 ones).<br>**Step 2: Subtract the Ones.** 13 ones – 4 ones = 9 ones. Write down 9.<br>**Step 3: Subtract the Tens.** Bring down 7 tens.<br>**Step 4: Subtract the Hundreds.** Bring down 7 hundreds.<br>**Answer:** 779 goats were left. |
+| **3.** | A class had 150 textbooks. 2 got lost. How many were left? | **Operation:** Subtraction ($150 - 2$)<br><br>**Step 1: Regroup.** Regroup 1 ten (5 tens becomes 4 tens, 0 ones become 10 ones).<br>**Step 2: Subtract the Ones.** 10 ones – 2 ones = 8 ones. Write down 8.<br>**Step 3: Subtract the Tens.** Bring down 4 tens.<br>**Step 4: Subtract the Hundreds.** Bring down 1 hundred.<br>**Answer:** 148 textbooks were left. |
+| **4.** | A shopkeeper had 124 packets of milk. She sold 5 packets. How many packets were left? | **Operation:** Subtraction ($124 - 5$)<br><br>**Step 1: Regroup.** Regroup 1 ten (2 tens becomes 1 ten, 4 ones become 14 ones).<br>**Step 2: Subtract the Ones.** 14 ones – 5 ones = 9 ones. Write down 9.<br>**Step 3: Subtract the Tens.** Bring down 1 ten.<br>**Step 4: Subtract the Hundreds.** Bring down 1 hundred.<br>**Answer:** 119 packets were left. |
+
+#### Week 6 Lesson 3 (Subtracting two 3-digit numbers)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **7.** | A garden had 719 seedlings. In one day 616 seedlings were sold. How many were left? | **Operation:** Subtraction ($719 - 616$)<br><br>**Step 1: Subtract the Ones.** 9 ones – 6 ones = 3 ones. Write down 3.<br>**Step 2: Subtract the Tens.** 1 ten – 1 ten = 0 tens. Write down 0.<br>**Step 3: Subtract the Hundreds.** 7 hundreds – 6 hundreds = 1 hundred. Write down 1.<br>**Answer:** 103 seedlings were left. |
+| **8.** | A wholesale shop had 328 bags of fertilizer. In one month, 120 bags were sold. How many were left? | **Operation:** Subtraction ($328 - 120$)<br><br>**Step 1: Subtract the Ones.** 8 ones – 0 ones = 8 ones. Write down 8.<br>**Step 2: Subtract the Tens.** 2 tens – 2 tens = 0 tens. Write down 0.<br>**Step 3: Subtract the Hundreds.** 3 hundreds – 1 hundred = 2 hundreds. Write down 2.<br>**Answer:** 208 bags were left. |
+| **9.** | Ole Sakida had 478 sheep. He sold 324. How many were left? | **Operation:** Subtraction ($478 - 324$)<br><br>**Step 1: Subtract the Ones.** 8 ones – 4 ones = 4 ones. Write down 4.<br>**Step 2: Subtract the Tens.** 7 tens – 2 tens = 5 tens. Write down 5.<br>**Step 3: Subtract the Hundreds.** 4 hundreds – 3 hundreds = 1 hundred. Write down 1.<br>**Answer:** 154 sheep were left. |
+| **10.** | A tank had 566 litres of water. A family used 323 litres. How many were left? | **Operation:** Subtraction ($566 - 323$)<br><br>**Step 1: Subtract the Ones.** 6 ones – 3 ones = 3 ones. Write down 3.<br>**Step 2: Subtract the Tens.** 6 tens – 2 tens = 4 tens. Write down 4.<br>**Step 3: Subtract the Hundreds.** 5 hundreds – 3 hundreds = 2 hundreds. Write down 2.<br>**Answer:** 243 litres were left. |
+
+#### Week 6 Lesson 4 (Subtracting a 2-digit number from a 3-digit number with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **1.** | A fish pond had 508 fish. On one day, 67 died. How many were left? | **Operation:** Subtraction ($508 - 67$)<br><br>**Step 1: Regroup.** Regroup 1 hundred to 9 tens and 10 ones (508 becomes 4 hundreds, 9 tens, 18 ones).<br>**Step 2: Subtract the Ones.** 18 ones – 7 ones = 11 ones. Write down 1. (Wait, $18-7=11$, this suggests an issue in the source logic or a misstep in grouping. Assuming $18-7=11$ is simplified to 1 one in the ones column and carrying 1 ten up). Since standard subtraction requires $18-7=11$, this problem implies multi-level borrowing. Let's stick to the arithmetic: 18 - 7 = 11. No, $8-7=1$. $0-6$ needs borrowing. 508 becomes 4(10)8. Then 4(9)(18). $18-7=11$. No, that's not right. Let's re-read the numbers: 508 - 67. **Correct Step 1 (Regrouping):** Regroup 1 hundred (500 becomes 4 hundreds and 10 tens). Then regroup 1 ten (10 tens becomes 9 tens, 8 ones become 18 ones). The number is now 49(18).<br>**Step 2: Subtract the Ones.** 18 ones – 7 ones = 11 ones. (Still incorrect. Reworking arithmetic assuming standard subtraction: $508 - 67$).<br>**Standard Subtraction:** $8 - 7 = 1$. $0 - 6$: Borrow from 5. $508 \to 4(10)8$. $10 - 6 = 4$. $4 - 0 = 4$. Answer: 441. <br>**Step-by-Step based on Low Vision curriculum flow:** 508 - 67. Subtract 7 from 8: $8 - 7 = 1$. Subtract 6 tens from 0 tens: Borrow 1 hundred from 500 (leaving 400). The 100 makes 10 tens. $10 - 6 = 4$ tens. Bring down 4 hundreds.<br>**Answer:** 441 fish were left. |
+| **2.** | A farmer harvested 335 bags of beans. In June he sold 82 bags. How many were left? | **Operation:** Subtraction ($335 - 82$)<br><br>**Step 1: Subtract the Ones.** 5 ones – 2 ones = 3 ones. Write down 3.<br>**Step 2: Subtract the Tens.** 3 tens – 8 tens. Regroup 1 hundred (3 hundreds becomes 2 hundreds, 3 tens become 13 tens).<br>**Step 3: Subtract the Tens.** 13 tens – 8 tens = 5 tens. Write down 5.<br>**Step 4: Subtract the Hundreds.** Bring down 2 hundreds.<br>**Answer:** 253 bags were left. |
+| **3.** | A shopkeeper had 124 packets of milk. She sold 5 packets. How many packets were left? | **Operation:** Subtraction ($124 - 5$)<br><br>**Step 1: Regroup.** Regroup 1 ten (2 tens becomes 1 ten, 4 ones become 14 ones).<br>**Step 2: Subtract the Ones.** 14 ones – 5 ones = 9 ones. Write down 9.<br>**Step 3: Subtract the Tens.** Bring down 1 ten.<br>**Step 4: Subtract the Hundreds.** Bring down 1 hundred.<br>**Answer:** 119 packets were left. |
+
+#### Week 6 Lesson 5 (Subtracting multiples of 10)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **10.** | A school took 80 learners for a music festival. 30 learners performed a traditional dance and the rest recited a poem. How many learners recited a poem? | **Operation:** Subtraction ($80 - 30$)<br><br>**Step 1: Subtract the Ones.** 0 ones – 0 ones = 0 ones. Write down 0.<br>**Step 2: Subtract the Tens.** 8 tens – 3 tens = 5 tens. Write down 5.<br>**Answer:** 50 learners recited a poem. |
+
+### III. NUMBERS: Multiplication
+
+#### Week 7 Lesson 4
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **4.** | Peter works out 6 mathematics questions each day. How many questions will he work out in 5 days? | **Operation:** Multiplication ($6 \times 5$)<br><br>**Step 1: Identify the factors.** 6 questions daily multiplied by 5 days.<br>**Step 2: Calculate the product.** Use the multiplication table or repeated addition ($6+6+6+6+6=30$).<br>**Answer:** Peter will work out 30 questions. |
+| **5.** | Kaunda eats 5 bananas each day. How many bananas will he eat in 6 days? | **Operation:** Multiplication ($5 \times 6$)<br><br>**Step 1: Identify the factors.** 5 bananas daily multiplied by 6 days.<br>**Step 2: Calculate the product.** Use the multiplication table or repeated addition ($5+5+5+5+5+5=30$).<br>**Answer:** Kaunda will eat 30 bananas. |
+
+#### Week 7 Lesson 5
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **4.** | A teacher uses 2 pieces of chalk each day. How many pieces will she use in 7 days? | **Operation:** Multiplication ($2 \times 7$)<br><br>**Step 1: Identify the factors.** 2 pieces daily multiplied by 7 days.<br>**Step 2: Calculate the product.** Use the multiplication table or repeated addition ($2+2+2+2+2+2+2=14$).<br>**Answer:** She will use 14 pieces. |
+| **5.** | John plants 3 trees at home each month. How many trees does John plant in 7 months? | **Operation:** Multiplication ($3 \times 7$)<br><br>**Step 1: Identify the factors.** 3 trees monthly multiplied by 7 months.<br>**Step 2: Calculate the product.** Use the multiplication table or repeated addition ($3+3+3+3+3+3+3=21$).<br>**Answer:** John plants 21 trees. |
+
+### IV. NUMBERS: Division
+
+#### Week 8 Lesson 1
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **8.** | A mother shared 24 oranges equally among 4 children. How many oranges did each child get? | **Operation:** Division ($24 \div 4$)<br><br>**Step 1: Relate to Multiplication.** Ask: What number multiplied by 4 gives 24? (i.e., $4 \times \square = 24$).<br>**Step 2: Calculate the quotient.** Using the multiplication table, $4 \times 6 = 24$.<br>**Answer:** Each child got 6 oranges. |
+| **9.** | A class teacher shared 18 pencils between 3 groups of learners. How many pencils did each group get? | **Operation:** Division ($18 \div 3$)<br><br>**Step 1: Relate to Multiplication.** Ask: What number multiplied by 3 gives 18? (i.e., $3 \times \square = 18$).<br>**Step 2: Calculate the quotient.** Using the multiplication table, $3 \times 6 = 18$.<br>**Answer:** Each group got 6 pencils. |
+| **10.** | A farmer put 15 water melons into 3 baskets equally. How many water melons were put in each basket? | **Operation:** Division ($15 \div 3$)<br><br>**Step 1: Relate to Multiplication.** Ask: What number multiplied by 3 gives 15? (i.e., $3 \times \square = 15$).<br>**Step 2: Calculate the quotient.** Using the multiplication table, $3 \times 5 = 15$.<br>**Answer:** 5 water melons were put in each basket. |
+
+#### Week 8 Lesson 2
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **8.** | Bakari had 36 mathematics books. He shared equally among 9 groups in his grade. How many did each group get? | **Operation:** Division ($36 \div 9$)<br><br>**Step 1: Relate to Multiplication.** Ask: What number multiplied by 9 gives 36? (i.e., $9 \times \square = 36$).<br>**Step 2: Calculate the quotient.** Using the multiplication table, $9 \times 4 = 36$.<br>**Answer:** Each group got 4 books. |
+| **9.** | Wavinya had 64 rubbers. She shared equally among 8 of her friends. How many did each friend get? | **Operation:** Division ($64 \div 8$)<br><br>**Step 1: Relate to Multiplication.** Ask: What number multiplied by 8 gives 64? (i.e., $8 \times \square = 64$).<br>**Step 2: Calculate the quotient.** Using the multiplication table, $8 \times 8 = 64$.<br>**Answer:** Each friend got 8 rubbers. |
+| **10.** | A shopkeeper had 72 bags of rice. He shared them equally among 8 other shopkeepers. How many bags did each shopkeeper get? | **Operation:** Division ($72 \div 8$)<br><br>**Step 1: Relate to Multiplication.** Ask: What number multiplied by 8 gives 72? (i.e., $8 \times \square = 72$).<br>**Step 2: Calculate the quotient.** Using the multiplication table, $8 \times 9 = 72$.<br>**Answer:** Each shopkeeper got 9 bags. |
+
+#### Week 8 Lesson 3
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **8.** | Eight learners shared 72 mangoes equally. How many mangoes did each learner get? | **Operation:** Division ($72 \div 8$)<br><br>**Step 1: Relate to Multiplication.** Find 72 in the multiplication table, then look across to the 8 column/row.<br>**Step 2: Calculate the quotient.** $72 \div 8 = 9$.<br>**Answer:** Each learner got 9 mangoes. |
+| **9.** | A father shared 54 biscuits among his 6 children. How many biscuits did each child get? | **Operation:** Division ($54 \div 6$)<br><br>**Step 1: Relate to Multiplication.** Find 54 in the multiplication table, then look across to the 6 column/row.<br>**Step 2: Calculate the quotient.** $54 \div 6 = 9$.<br>**Answer:** Each child got 9 biscuits. |
+| **10.** | Seven teachers shared 35 bottles of mineral water equally. How many bottles of mineral water did each teacher get? | **Operation:** Division ($35 \div 7$)<br><br>**Step 1: Relate to Multiplication.** Find 35 in the multiplication table, then look across to the 7 column/row.<br>**Step 2: Calculate the quotient.** $35 \div 7 = 5$.<br>**Answer:** Each teacher got 5 bottles of mineral water. |
+
+### V. MEASUREMENT: Length
+
+#### Week 8 Lesson 4 (Adding and Subtracting Length)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **1a.** | Asha walks from home (270m to Market) to the school (170m from Market). How many metres does she walk altogether? | **Operation:** Addition ($270m + 170m$)<br><br>**Step 1: Add the Ones.** $0 + 0 = 0$. Write down 0.<br>**Step 2: Add the Tens.** $7 + 7 = 14$. Write down 4 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** $1 + 2 + 1 = 4$. Write down 4.<br>**Answer:** She walks 440 metres altogether. |
+| **2.** | Mercy had a string measuring 64 metres. She used 31 metres to make a basket. How many metres of string was she left with? | **Operation:** Subtraction ($64m - 31m$)<br><br>**Step 1: Subtract the Ones.** $4 - 1 = 3$. Write down 3.<br>**Step 2: Subtract the Tens.** $6 - 3 = 3$. Write down 3.<br>**Answer:** She was left with 33 metres of string. |
+| **3.** | Joshua ran 240 metres on Monday morning. He also ran 155 metres in the evening. How many metres did he run altogether? | **Operation:** Addition ($240m + 155m$)<br><br>**Step 1: Add the Ones.** $0 + 5 = 5$. Write down 5.<br>**Step 2: Add the Tens.** $4 + 5 = 9$. Write down 9.<br>**Step 3: Add the Hundreds.** $2 + 1 = 3$. Write down 3.<br>**Answer:** He ran 395 metres altogether. |
+
+### VI. MEASUREMENT: Mass
+
+#### Week 9 Lesson 1 (Adding mass)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **1.** | Jane has 2 of kg beans and 7 kg of maize. How many kg does she have altogether? | **Operation:** Addition ($2 kg + 7 kg$)<br><br>**Step 1: Add the masses.** $2 + 7 = 9$.<br>**Answer:** She has 9 kg altogether. |
+| **2.** | Peter has 4 kg of coffee and 3 kg of tea leaves. How many kg does he have altogether? | **Operation:** Addition ($4 kg + 3 kg$)<br><br>**Step 1: Add the masses.** $4 + 3 = 7$.<br>**Answer:** He has 7 kg altogether. |
+| **3.** | Halima has 2 kg of meat and 3 kg of potatoes. How many kg does she have altogether? | **Operation:** Addition ($2 kg + 3 kg$)<br><br>**Step 1: Add the masses.** $2 + 3 = 5$.<br>**Answer:** She has 5 kg altogether. |
+| **4.** | In a hotel, there are 20 kg of rice and 14 kg of vegetables. How many kg are there altogether? | **Operation:** Addition ($20 kg + 14 kg$)<br><br>**Step 1: Add the Ones.** $0 + 4 = 4$. Write down 4.<br>**Step 2: Add the Tens.** $2 + 1 = 3$. Write down 3.<br>**Answer:** There are 34 kg altogether. |
+| **5.** | A school has 12 kg of sugar and 5 kg of coffee. How many kg are there altogether? | **Operation:** Addition ($12 kg + 5 kg$)<br><br>**Step 1: Add the Ones.** $2 + 5 = 7$. Write down 7.<br>**Step 2: Add the Tens.** Bring down 1 ten.<br>**Answer:** There are 17 kg altogether. |
+
+#### Week 9 Lesson 2 (Subtracting mass)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example** | Halima has 18 kg of potatoes, she gave Jacinta 5 kgs. How many kgs were left? | **Operation:** Subtraction ($18 kg - 5 kg$)<br><br>**Step 1: Subtract the Ones.** $8 - 5 = 3$. Write down 3.<br>**Step 2: Subtract the Tens.** Bring down 1 ten.<br>**Calculation:** $18 - 5 = 13$.<br>**Answer:** Halima is left with 13 kg of potatoes. |
+| **1.** | James bought 25 kg of meat. He gave 10 kg to John. How many kg was he left with? | **Operation:** Subtraction ($25 kg - 10 kg$)<br><br>**Step 1: Subtract the Ones.** $5 - 0 = 5$. Write down 5.<br>**Step 2: Subtract the Tens.** $2 - 1 = 1$. Write down 1.<br>**Answer:** He was left with 15 kg. |
+| **2.** | Mary had 16 kg of beans. She cooked 9 kg. how many kg were left? | **Operation:** Subtraction ($16 kg - 9 kg$)<br><br>**Step 1: Regroup.** Regroup 1 ten (1 ten becomes 0 tens, 6 ones become 16 ones).<br>**Step 2: Subtract the Ones.** $16 - 9 = 7$. Write down 7.<br>**Answer:** 7 kg were left. |
+| **3.** | Jane has 22 kg of sugar. She gave Asha 10 kg. How many kg of sugar was she left with? | **Operation:** Subtraction ($22 kg - 10 kg$)<br><br>**Step 1: Subtract the Ones.** $2 - 0 = 2$. Write down 2.<br>**Step 2: Subtract the Tens.** $2 - 1 = 1$. Write down 1.<br>**Answer:** She was left with 12 kg of sugar. |
+
+### VII. MEASUREMENT: Capacity
+
+#### Week 9 Lesson 4 (Adding capacity)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example** | John bought 4 litres of milk. His grandmother brought him 3 litres of milk. How many litres does he have altogether? | **Operation:** Addition ($4 litres + 3 litres$)<br><br>**Step 1: Add the capacities.** $4 + 3 = 7$.<br>**Answer:** He has 7 litres altogether. |
+| **1.** | Jane wanted to make tea. She used 2 litres of milk and 5 litres of water. How many litres of tea did she make? | **Operation:** Addition ($2 litres + 5 litres$)<br><br>**Step 1: Add the capacities.** $2 + 5 = 7$.<br>**Answer:** She made 7 litres of tea. |
+| **2.** | Juma had 23 litres of water. He was given 8 more litres. How many litres of water does he have altogether? | **Operation:** Addition ($23 litres + 8 litres$)<br><br>**Step 1: Add the Ones.** $3 + 8 = 11$. Write down 1 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 2 = 3$. Write down 3.<br>**Answer:** He has 31 litres of water altogether. |
+| **3.** | A tank had 134 litres of water. Helen added 57 litres of water into the tank. How many litres does it have altogether? | **Operation:** Addition ($134 litres + 57 litres$)<br><br>**Step 1: Add the Ones.** $4 + 7 = 11$. Write down 1 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 3 + 5 = 9$. Write down 9.<br>**Step 3: Add the Hundreds.** Bring down 1 hundred.<br>**Answer:** It has 191 litres altogether. |
+| **4.** | A cook prepared 14 litres of porridge in the morning. He prepared 9 litres of porridge in the afternoon. How many litres of porridge did he prepare altogether? | **Operation:** Addition ($14 litres + 9 litres$)<br><br>**Step 1: Add the Ones.** $4 + 9 = 13$. Write down 3 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 1 = 2$. Write down 2.<br>**Answer:** He prepared 23 litres of porridge altogether. |
+| **5.** | Mary bought 12 litres of juice. Ann bought 9 litres of juice. How many litres of juice did they have altogether? | **Operation:** Addition ($12 litres + 9 litres$)<br><br>**Step 1: Add the Ones.** $2 + 9 = 11$. Write down 1 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 1 = 2$. Write down 2.<br>**Answer:** They had 21 litres of juice altogether. |
+
+#### Week 9 Lesson 5 (Subtracting capacity)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example** | A car had 26 litres of petrol. It used 14 litres. How many litres were left? | **Operation:** Subtraction ($26 litres - 14 litres$)<br><br>**Step 1: Subtract the Ones.** $6 - 4 = 2$.<br>**Step 2: Subtract the Tens.** $2 - 1 = 1$.<br>**Calculation:** $26 - 14 = 12$.<br>**Answer:** 12 litres were left. |
+| **1.** | Juma had 43 litres water. He used 5 litres. How many litres of water was left? | **Operation:** Subtraction ($43 litres - 5 litres$)<br><br>**Step 1: Regroup.** Regroup 1 ten (4 tens becomes 3 tens, 3 ones become 13 ones).<br>**Step 2: Subtract the Ones.** $13 - 5 = 8$. Write down 8.<br>**Step 3: Subtract the Tens.** Bring down 3 tens.<br>**Answer:** 38 litres of water were left. |
+| **2.** | A shopkeeper had 93 litres of milk. He sold 38 litres. How many litres of milk were left? | **Operation:** Subtraction ($93 litres - 38 litres$)<br><br>**Step 1: Regroup.** Regroup 1 ten (9 tens becomes 8 tens, 3 ones become 13 ones).<br>**Step 2: Subtract the Ones.** $13 - 8 = 5$. Write down 5.<br>**Step 3: Subtract the Tens.** $8 - 3 = 5$. Write down 5.<br>**Answer:** 55 litres of milk were left. |
+| **3.** | A school tank had 532 litres of water. The school used 117 litres. How many litres of water were left? | **Operation:** Subtraction ($532 litres - 117 litres$)<br><br>**Step 1: Regroup.** Regroup 1 ten (3 tens becomes 2 tens, 2 ones become 12 ones).<br>**Step 2: Subtract the Ones.** $12 - 7 = 5$. Write down 5.<br>**Step 3: Subtract the Tens.** $2 - 1 = 1$. Write down 1.<br>**Step 4: Subtract the Hundreds.** $5 - 1 = 4$. Write down 4.<br>**Answer:** 415 litres of water were left. |
+| **4.** | Amina had 749 litres of diesel. She sold 63 litres. How many litres of diesel were left? | **Operation:** Subtraction ($749 litres - 63 litres$)<br><br>**Step 1: Subtract the Ones.** $9 - 3 = 6$. Write down 6.<br>**Step 2: Subtract the Tens.** $4 - 6$. Regroup 1 hundred (7 hundreds becomes 6 hundreds, 4 tens becomes 14 tens). $14 - 6 = 8$. Write down 8.<br>**Step 3: Subtract the Hundreds.** Bring down 6 hundreds.<br>**Answer:** 686 litres of diesel were left. |
+| **5.** | A bucket had 26 litres of water. Mwau used 15 litres. How many litres were left. | **Operation:** Subtraction ($26 litres - 15 litres$)<br><br>**Step 1: Subtract the Ones.** $6 - 5 = 1$. Write down 1.<br>**Step 2: Subtract the Tens.** $2 - 1 = 1$. Write down 1.<br>**Answer:** 11 litres were left. |
+
+### VIII. MEASUREMENT: Money (Denominational Exchange and Balance)
+
+#### Week 11 Lesson 1 (Denominational Exchange/Change)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 1** | Peter has a sh.1000 note. How many sh.500 notes will he get? | **Operation:** Division ($1000 \div 500$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 500 fits into 1000.<br>**Calculation:** $1000 \div 500 = 2$.<br>**Answer:** Peter gets two sh.500 notes as change. |
+| **Example 2** | Hellen has five sh.100 notes. How many sh.500 notes will she get? | **Operation:** Multiplication/Division ($5 \times 100 \div 500$)<br><br>**Step 1: Calculate total amount.** $5 \times 100 = 500$.<br>**Step 2: Determine the exchange rate.** Find how many times 500 fits into 500.<br>**Calculation:** $500 \div 500 = 1$.<br>**Answer:** Hellen gets one sh. 500 note as change. |
+| **1.** | Juma has a sh.200 note. How many one hundred shillings notes will he get as change? | **Operation:** Division ($200 \div 100$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 100 fits into 200.<br>**Calculation:** $200 \div 100 = 2$.<br>**Answer:** He will get 2 sh. 100 notes. |
+| **3.** | Abdi has a sh.200 note. How many sh.50 notes will he get as change? | **Operation:** Division ($200 \div 50$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 50 fits into 200.<br>**Calculation:** $200 \div 50 = 4$.<br>**Answer:** He will get 4 sh. 50 notes. |
+| **4.** | Moses has a sh.500 note. How many sh.100 notes will he get as change? | **Operation:** Division ($500 \div 100$)<br><br>**Step 1: Determine the exchange rate.** Find how many times 100 fits into 500.<br>**Calculation:** $500 \div 100 = 5$.<br>**Answer:** He will get 5 sh. 100 notes. |
+
+#### Week 11 Lesson 2 (Shopping activities involving balance)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 1** | Tom had a sh.1000 note. He bought a bag for sh.600. How much money was he left with? | **Operation:** Subtraction ($1000 - 600$)<br><br>**Step 1: Set up the subtraction.** Subtract cost (sh. 600) from amount paid (sh. 1000).<br>**Calculation:** $1000 - 600 = 400$.<br>**Answer:** sh. 400 is the balance. |
+| **Example 2** | Asha had a sh.500 note. She bought a book for sh.320. What was the balance? | **Operation:** Subtraction ($500 - 320$)<br><br>**Step 1: Subtract the Ones.** $0 - 0 = 0$.<br>**Step 2: Subtract the Tens.** $0 - 2$. Regroup 1 hundred (5 hundreds becomes 4 hundreds, 0 tens becomes 10 tens). $10 - 2 = 8$.<br>**Step 3: Subtract the Hundreds.** $4 - 3 = 1$.<br>**Answer:** sh. 180 is the balance. |
+| **1.** | Martin had a sh.500 note. He bought a stool for sh.300. What balance did he get? | **Operation:** Subtraction ($500 - 300$)<br><br>**Step 1: Subtract the amounts.** $500 - 300 = 200$.<br>**Answer:** He got sh. 200 balance. |
+| **2.** | David had a sh.1000 note. He bought a school bag for sh.950. What balance did he get? | **Operation:** Subtraction ($1000 - 950$)<br><br>**Step 1: Subtract the amounts.** $1000 - 950 = 50$.<br>**Answer:** He got sh. 50 balance. |
+| **3.** | Joan has a sh.500 note. She bought petrol for her care for sh.350. What balance did she get? | **Operation:** Subtraction ($500 - 350$)<br><br>**Step 1: Subtract the Ones.** $0 - 0 = 0$.<br>**Step 2: Subtract the Tens.** $0 - 5$. Regroup 1 hundred (5 hundreds becomes 4 hundreds, 0 tens becomes 10 tens). $10 - 5 = 5$.<br>**Step 3: Subtract the Hundreds.** $4 - 3 = 1$.<br>**Answer:** She got sh. 150 balance. |
+
+#### Week 11 Lesson 3 (Adding and Subtracting Money)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 1** | Mary had sh. 345. Her mother gave her sh. 225 more. How much money did she have altogether? | **Operation:** Addition ($345 + 225$)<br><br>**Step 1: Add the Ones.** $5 + 5 = 10$. Write down 0 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 4 + 2 = 7$. Write down 7.<br>**Step 3: Add the Hundreds.** $3 + 2 = 5$. Write down 5.<br>**Answer:** She had sh. 570 altogether. |
+| **Example 2** | Maurice had sh. 32. He spent sh 16. How much money was he left with? | **Operation:** Subtraction ($32 - 16$)<br><br>**Step 1: Regroup.** Regroup 1 ten (3 tens becomes 2 tens, 2 ones become 12 ones).<br>**Step 2: Subtract the Ones.** $12 - 6 = 6$.<br>**Step 3: Subtract the Tens.** $2 - 1 = 1$.<br>**Answer:** He was left with sh. 16. |
+| **1.** | Peter bought sugar for sh.176. He also bought flour for sh 206. How much did he spend altogether? | **Operation:** Addition ($176 + 206$)<br><br>**Step 1: Add the Ones.** $6 + 6 = 12$. Write down 2 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 7 + 0 = 8$. Write down 8.<br>**Step 3: Add the Hundreds.** $1 + 2 = 3$. Write down 3.<br>**Answer:** He spent sh. 382 altogether. |
+| **2.** | Babu spent sh 341 at the market. He spent sh.270 on transport. How much did he spend altogether? | **Operation:** Addition ($341 + 270$)<br><br>**Step 1: Add the Ones.** $1 + 0 = 1$. Write down 1.<br>**Step 2: Add the Tens.** $4 + 7 = 11$. Write down 1 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** $1 + 3 + 2 = 6$. Write down 6.<br>**Answer:** He spent sh. 611 altogether. |
+| **3.** | A family spends sh.514 on lunch. It also spends sh.275 on super. How much does it spend altogether? | **Operation:** Addition ($514 + 275$)<br><br>**Step 1: Add the Ones.** $4 + 5 = 9$. Write down 9.<br>**Step 2: Add the Tens.** $1 + 7 = 8$. Write down 8.<br>**Step 3: Add the Hundreds.** $5 + 2 = 7$. Write down 7.<br>**Answer:** It spends sh. 789 altogether. |
+| **4.** | A watchman is paid sh.626 a day. A sweeper is paid sh.302 a day. How much are they paid altogether? | **Operation:** Addition ($626 + 302$)<br><br>**Step 1: Add the Ones.** $6 + 2 = 8$. Write down 8.<br>**Step 2: Add the Tens.** $2 + 0 = 2$. Write down 2.<br>**Step 3: Add the Hundreds.** $6 + 3 = 9$. Write down 9.<br>**Answer:** They are paid sh. 928 altogether. |
+| **5.** | Peris had sh. 714. She used sh.220 to buy a dress. How much money was she left with? | **Operation:** Subtraction ($714 - 220$)<br><br>**Step 1: Subtract the Ones.** $4 - 0 = 4$.<br>**Step 2: Subtract the Tens.** $1 - 2$. Regroup 1 hundred (7 hundreds becomes 6 hundreds, 1 ten becomes 11 tens). $11 - 2 = 9$.<br>**Step 3: Subtract the Hundreds.** $6 - 2 = 4$.<br>**Answer:** She was left with sh. 494. |
+| **6.** | Joshua has sh 403. He uses sh 53 to buy a toy. How much money is he left with? | **Operation:** Subtraction ($403 - 53$)<br><br>**Step 1: Subtract the Ones.** $3 - 3 = 0$.<br>**Step 2: Subtract the Tens.** $0 - 5$. Regroup 1 hundred (4 hundreds becomes 3 hundreds, 0 tens becomes 10 tens). $10 - 5 = 5$.<br>**Step 3: Subtract the Hundreds.** Bring down 3 hundreds.<br>**Answer:** He is left with sh. 350. |
+| **7.** | Onesmus was given sh.256. He used sh 141. How much money was he left with? | **Operation:** Subtraction ($256 - 141$)<br><br>**Step 1: Subtract the Ones.** $6 - 1 = 5$.<br>**Step 2: Subtract the Tens.** $5 - 4 = 1$.<br>**Step 3: Subtract the Hundreds.** $2 - 1 = 1$.<br>**Answer:** He was left with sh. 115. |
+
+***
+
+## TERM III
+
+### I. NUMBERS: Addition
+
+#### Week 2 Lesson 5 (Adding a 3-digit number to a 1-digit number)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **9.** | Ali had 800 goats. He bought 8 more goats. How many goats does he have now? | **Operation:** Addition ($800 + 8$)<br><br>**Step 1: Add the Ones.** $0 + 8 = 8$. Write down 8.<br>**Step 2: Add the Tens.** Bring down 0 tens.<br>**Step 3: Add the Hundreds.** Bring down 8 hundreds.<br>**Answer:** He has 808 goats now. |
+| **10.** | Mary had 102 packets of unga. She bought 7 more packets. How many packets does she have altogether? | **Operation:** Addition ($102 + 7$)<br><br>**Step 1: Add the Ones.** $2 + 7 = 9$. Write down 9.<br>**Step 2: Add the Tens.** Bring down 0 tens.<br>**Step 3: Add the Hundreds.** Bring down 1 hundred.<br>**Answer:** She has 109 packets altogether. |
+
+#### Week 3 Lesson 1 (Adding a 3-digit number to a 2-digit number)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **10.** | Otieno had 125 bottles of juice. He bought 72 more bottles of juice. How many bottles of juice does he have altogether? | **Operation:** Addition ($125 + 72$)<br><br>**Step 1: Add the Ones.** $5 + 2 = 7$. Write down 7.<br>**Step 2: Add the Tens.** $2 + 7 = 9$. Write down 9.<br>**Step 3: Add the Hundreds.** Bring down 1 hundred.<br>**Answer:** He has 197 bottles of juice altogether. |
+| **11.** | Muso had 200 packets of pencils. He bought 66 more packets of pencils. How many packets of pencils does he have altogether? | **Operation:** Addition ($200 + 66$)<br><br>**Step 1: Add the Ones.** $0 + 6 = 6$. Write down 6.<br>**Step 2: Add the Tens.** $0 + 6 = 6$. Write down 6.<br>**Step 3: Add the Hundreds.** Bring down 2 hundreds.<br>**Answer:** He has 266 packets of pencils altogether. |
+
+#### Week 3 Lesson 2 (Adding with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **11.** | Fatuma had 105 buttons in her shop. She bought another 6 buttons. How many buttons does she have altogether? | **Operation:** Addition ($105 + 6$)<br><br>**Step 1: Add the Ones.** $5 + 6 = 11$. Write down 1 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 0 = 1$. Write down 1.<br>**Step 3: Add the Hundreds.** Bring down 1 hundred.<br>**Answer:** She has 111 buttons altogether. |
+| **12.** | A box of mangoes weighs 126 kg. Another 48kg of mangoes were added. How many kilograms are there altogether? | **Operation:** Addition ($126 + 48$)<br><br>**Step 1: Add the Ones.** $6 + 8 = 14$. Write down 4 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 2 + 4 = 7$. Write down 7.<br>**Step 3: Add the Hundreds.** Bring down 1 hundred.<br>**Answer:** There are 174 kilograms altogether. |
+
+#### Week 3 Lesson 3 (Adding a 3-digit number to a 2-digit number with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **8.** | Peter had 246 bottles of soda in his shop. He bought 70 more bottles of soda. How many bottles of soda does he have altogether? | **Operation:** Addition ($246 + 70$)<br><br>**Step 1: Add the Ones.** $6 + 0 = 6$. Write down 6.<br>**Step 2: Add the Tens.** $4 + 7 = 11$. Write down 1 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** $1 + 2 = 3$. Write down 3.<br>**Answer:** He has 316 bottles of soda altogether. |
+| **9.** | Juma has 256 oranges. Amina has 71 oranges. How many oranges do they have altogether? | **Operation:** Addition ($256 + 71$)<br><br>**Step 1: Add the Ones.** $6 + 1 = 7$. Write down 7.<br>**Step 2: Add the Tens.** $5 + 7 = 12$. Write down 2 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** $1 + 2 = 3$. Write down 3.<br>**Answer:** They have 327 oranges altogether. |
+| **10.** | Lesiampe has 174 goats. His brother Leshere has 92 goats. How many goats do they have altogether? | **Operation:** Addition ($174 + 92$)<br><br>**Step 1: Add the Ones.** $4 + 2 = 6$. Write down 6.<br>**Step 2: Add the Tens.** $7 + 9 = 16$. Write down 6 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** $1 + 1 = 2$. Write down 2.<br>**Answer:** They have 266 goats altogether. |
+
+### II. NUMBERS: Subtraction
+
+#### Week 4 Lesson 3 (Subtracting a 2-digit number from a 3-digit number)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **10.** | A town has 196 adults. There are 84 men. How many are women? | **Operation:** Subtraction ($196 - 84$)<br><br>**Step 1: Subtract the Ones.** $6 - 4 = 2$. Write down 2.<br>**Step 2: Subtract the Tens.** $9 - 8 = 1$. Write down 1.<br>**Step 3: Subtract the Hundreds.** Bring down 1 hundred.<br>**Answer:** There are 112 women. |
+
+#### Week 4 Lesson 4 (Subtracting a 2-digit number from a 3-digit number with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **10.** | A farmer harvested 425 oranges. He gave 64 of them to children. How many oranges were left? | **Operation:** Subtraction ($425 - 64$)<br><br>**Step 1: Subtract the Ones.** $5 - 4 = 1$. Write down 1.<br>**Step 2: Subtract the Tens.** $2 - 6$. Regroup 1 hundred (4 hundreds becomes 3 hundreds, 2 tens becomes 12 tens). $12 - 6 = 6$. Write down 6.<br>**Step 3: Subtract the Hundreds.** Bring down 3 hundreds.<br>**Answer:** 361 oranges were left. |
+
+#### Week 4 Lesson 5 (Subtracting two 3-digit numbers with regrouping)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **9.** | A forester had 638 seedlings. He gave out 475 seedlings. How many seedlings was he left with? | **Operation:** Subtraction ($638 - 475$)<br><br>**Step 1: Subtract the Ones.** $8 - 5 = 3$. Write down 3.<br>**Step 2: Subtract the Tens.** $3 - 7$. Regroup 1 hundred (6 hundreds becomes 5 hundreds, 3 tens becomes 13 tens). $13 - 7 = 6$. Write down 6.<br>**Step 3: Subtract the Hundreds.** $5 - 4 = 1$. Write down 1.<br>**Answer:** He was left with 163 seedlings. |
+| **10.** | A school bought 535 pencils. The headteacher gave 365 pencils to his learners. How many pencils were left? | **Operation:** Subtraction ($535 - 365$)<br><br>**Step 1: Subtract the Ones.** $5 - 5 = 0$. Write down 0.<br>**Step 2: Subtract the Tens.** $3 - 6$. Regroup 1 hundred (5 hundreds becomes 4 hundreds, 3 tens becomes 13 tens). $13 - 6 = 7$. Write down 7.<br>**Step 3: Subtract the Hundreds.** $4 - 3 = 1$. Write down 1.<br>**Answer:** 170 pencils were left. |
+
+#### Week 5 Lesson 1 (Subtracting multiples of 10)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **10.** | On Monday, 750 passengers got onto a train from Mombasa to Nairobi. At Voi, 30 passengers got off the train. How many passengers were left in the train? | **Operation:** Subtraction ($750 - 30$)<br><br>**Step 1: Subtract the Ones.** $0 - 0 = 0$. Write down 0.<br>**Step 2: Subtract the Tens.** $5 - 3 = 2$. Write down 2.<br>**Step 3: Subtract the Hundreds.** Bring down 7 hundreds.<br>**Answer:** 720 passengers were left in the train. |
+
+### III. NUMBERS: Multiplication
+
+#### Week 5 Lesson 5 (Multiplying 8, 9, and 10)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 1** | A pencil costs sh.10. How much do I pay for 5 pencils? | **Operation:** Multiplication ($5 \times 10$)<br><br>**Step 1: Identify the factors.** 5 pencils multiplied by sh. 10 cost.<br>**Step 2: Calculate the product.** $5 \times 10 = 50$.<br>**Answer:** You pay sh. 50. |
+| **Example 2** | A cow has four legs. How many legs do 8 cows have? | **Operation:** Multiplication ($8 \times 4$)<br><br>**Step 1: Identify the factors.** 8 cows multiplied by 4 legs each.<br>**Step 2: Calculate the product.** $8 \times 4 = 32$.<br>**Answer:** They have 32 legs. |
+| **1.** | Jane sells 10 apples every day. How many apples will she sell in 9 days? | **Operation:** Multiplication ($10 \times 9$)<br><br>**Step 1: Identify the factors.** 10 apples daily multiplied by 9 days.<br>**Step 2: Calculate the product.** $10 \times 9 = 90$.<br>**Answer:** She will sell 90 apples. |
+| **2.** | A cow produces 8 litres of milk in a day. How many litres will it produce in 5 days? | **Operation:** Multiplication ($8 \times 5$)<br><br>**Step 1: Identify the factors.** 8 litres daily multiplied by 5 days.<br>**Step 2: Calculate the product.** $8 \times 5 = 40$.<br>**Answer:** It will produce 40 litres. |
+| **3.** | James sells 9 packets of milk every day. How many packets of milk will he sell in 8 days? | **Operation:** Multiplication ($9 \times 8$)<br><br>**Step 1: Identify the factors.** 9 packets daily multiplied by 8 days.<br>**Step 2: Calculate the product.** $9 \times 8 = 72$.<br>**Answer:** He will sell 72 packets of milk. |
+| **4.** | A farmer planted 10 rows of cabbage in one hour. How many rows of cabbage did he plant in 5 hours? | **Operation:** Multiplication ($10 \times 5$)<br><br>**Step 1: Identify the factors.** 10 rows per hour multiplied by 5 hours.<br>**Step 2: Calculate the product.** $10 \times 5 = 50$.<br>**Answer:** He planted 50 rows of cabbage. |
+| **5.** | There are 4 windows in a classroom. How many windows are there in 8 classrooms? | **Operation:** Multiplication ($4 \times 8$)<br><br>**Step 1: Identify the factors.** 4 windows per classroom multiplied by 8 classrooms.<br>**Step 2: Calculate the product.** $4 \times 8 = 32$.<br>**Answer:** There are 32 windows. |
+
+### IV. NUMBERS: Division
+
+#### Week 6 Lesson 2 (Word questions involving division)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example** | 45 pupils were shared equally among 5 cars. How many pupils did each car carry. | **Operation:** Division ($45 \div 5$)<br><br>**Step 1: Relate to Multiplication.** Ask: What number multiplied by 5 gives 45? (i.e., $5 \times \square = 45$).<br>**Step 2: Calculate the quotient.** $45 \div 5 = 9$.<br>**Answer:** Each car carried 9 pupils. |
+| **1.** | John shared sh 72 equally among 9 children. How much money did each get? | **Operation:** Division ($72 \div 9$)<br><br>**Step 1: Relate to Multiplication.** $9 \times \square = 72$.<br>**Step 2: Calculate the quotient.** $72 \div 9 = 8$.<br>**Answer:** Each child got sh 8. |
+| **2.** | Nasieku shared 64 oranges equally among 8 children. How many oranges did each child get? | **Operation:** Division ($64 \div 8$)<br><br>**Step 1: Relate to Multiplication.** $8 \times \square = 64$.<br>**Step 2: Calculate the quotient.** $64 \div 8 = 8$.<br>**Answer:** Each child got 8 oranges. |
+| **3.** | Halima had 36 fish. She shared them equally among her 4 daughters. How many fish did each daughter get? | **Operation:** Division ($36 \div 4$)<br><br>**Step 1: Relate to Multiplication.** $4 \times \square = 36$.<br>**Step 2: Calculate the quotient.** $36 \div 4 = 9$.<br>**Answer:** Each daughter got 9 fish. |
+| **4.** | Perez shared 24 biscuits equally among 6 children. How many biscuits did each child get? | **Operation:** Division ($24 \div 6$)<br><br>**Step 1: Relate to Multiplication.** $6 \times \square = 24$.<br>**Step 2: Calculate the quotient.** $24 \div 6 = 4$.<br>**Answer:** Each child got 4 biscuits. |
+| **5.** | An egg tray has 24 eggs. The eggs are shared equally among 3 people. How many eggs did each person get? | **Operation:** Division ($24 \div 3$)<br><br>**Step 1: Relate to Multiplication.** $3 \times \square = 24$.<br>**Step 2: Calculate the quotient.** $24 \div 3 = 8$.<br>**Answer:** Each person got 8 eggs. |
+| **6.** | Mother had 56 bananas. She shared them equally among her 8 children. How many bananas did each child get? | **Operation:** Division ($56 \div 8$)<br><br>**Step 1: Relate to Multiplication.** $8 \times \square = 56$.<br>**Step 2: Calculate the quotient.** $56 \div 8 = 7$.<br>**Answer:** Each child got 7 bananas. |
+
+### V. MEASUREMENT: Length
+
+#### Week 6 Lesson 3 (Adding lengths in metres)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **1.** | The distance from grade 3A to grade 3B is 5 metres. The distance from grade 3B to the staffroom is 8 metres. What is the distance from grade 3A to the staffroom. | **Operation:** Addition ($5m + 8m$)<br><br>**Step 1: Add the distances.** $5 + 8 = 13$.<br>**Answer:** The distance is 13 metres. |
+| **2.** | The distance from the gate to the office is 10 metres. John walked from the gate to the office and back. How many metres did he walk? | **Operation:** Addition ($10m + 10m$) or Multiplication ($10m \times 2$)<br><br>**Step 1: Add the outbound and return distances.** $10 + 10 = 20$.<br>**Answer:** He walked 20 metres. |
+| **3.** | The distance from Bens home to the market is 450 metres. The distance from the market to the school is 360 metres. What is the distance in metres from Bens home to the school. | **Operation:** Addition ($450m + 360m$)<br><br>**Step 1: Add the Ones.** $0 + 0 = 0$.<br>**Step 2: Add the Tens.** $5 + 6 = 11$. Write down 1 and carry 1 hundred.<br>**Step 3: Add the Hundreds.** $1 + 4 + 3 = 8$.<br>**Answer:** The distance is 810 metres. |
+
+#### Week 6 Lesson 4 (Subtracting lengths in metres)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 2** | Subtract 450m from 625m. Arrange as follows (625m - 450m). | **Operation:** Subtraction ($625m - 450m$)<br><br>**Step 1: Subtract the Ones.** $5 - 0 = 5$.<br>**Step 2: Subtract the Tens.** $2 - 5$. Regroup 1 hundred (6 hundreds becomes 5 hundreds, 2 tens becomes 12 tens). $12 - 5 = 7$.<br>**Step 3: Subtract the Hundreds.** $5 - 4 = 1$.<br>**Answer:** $175m$. |
+| **1.** | A piece of timber is 27m long. 7m is cut from it. How long is the remaining timber? | **Operation:** Subtraction ($27m - 7m$)<br><br>**Step 1: Subtract the Ones.** $7 - 7 = 0$.<br>**Step 2: Subtract the Tens.** Bring down 2 tens.<br>**Answer:** The remaining timber is 20m long. |
+| **2.** | The length of a classroom block is 87m. A worker painted 58m. How many metres remained? | **Operation:** Subtraction ($87m - 58m$)<br><br>**Step 1: Regroup.** Regroup 1 ten (8 tens becomes 7 tens, 7 ones become 17 ones).<br>**Step 2: Subtract the Ones.** $17 - 8 = 9$.<br>**Step 3: Subtract the Tens.** $7 - 5 = 2$.<br>**Answer:** 29 metres remained. |
+| **3.** | Maria’s home is 687m from the market. After walking for 397m from the market towards home, maria rested. How far was she from home when she rested? | **Operation:** Subtraction ($687m - 397m$)<br><br>**Step 1: Subtract the Ones.** $7 - 7 = 0$.<br>**Step 2: Subtract the Tens.** $8 - 9$. Regroup 1 hundred (6 hundreds becomes 5 hundreds, 8 tens becomes 18 tens). $18 - 9 = 9$.<br>**Step 3: Subtract the Hundreds.** $5 - 3 = 2$.<br>**Answer:** She was 290m from home. |
+| **4.** | Peter left home for school, which is 200m away. After walking for 70m, Peter stopped. How far was he from the school? | **Operation:** Subtraction ($200m - 70m$)<br><br>**Step 1: Subtract the Ones.** $0 - 0 = 0$.<br>**Step 2: Subtract the Tens.** $0 - 7$. Regroup 1 hundred (2 hundreds becomes 1 hundred, 0 tens becomes 10 tens). $10 - 7 = 3$.<br>**Step 3: Subtract the Hundreds.** Bring down 1 hundred.<br>**Answer:** He was 130m from the school. |
+| **5.** | Mwende walked to the hospital which is 870m away from home. After walking for 630m, mwende rested. What was the remaining distance? | **Operation:** Subtraction ($870m - 630m$)<br><br>**Step 1: Subtract the Ones.** $0 - 0 = 0$.<br>**Step 2: Subtract the Tens.** $7 - 3 = 4$.<br>**Step 3: Subtract the Hundreds.** $8 - 6 = 2$.<br>**Answer:** The remaining distance was 240m. |
+
+### VI. MEASUREMENT: Mass
+
+#### Week 6 Lesson 5 (Adding and subtracting mass in kilograms)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example 1 (Add)** | What is the total mass of beans (26kg) and maize (11kg)? | **Operation:** Addition ($26kg + 11kg$)<br><br>**Step 1: Add the Ones.** $6 + 1 = 7$.<br>**Step 2: Add the Tens.** $2 + 1 = 3$.<br>**Answer:** The total mass is 37kg. |
+| **Example 2 (Subtract)** | Brandon has 28kg of sugar. He gave Jusper 19kg. How many kg were left? | **Operation:** Subtraction ($28kg - 19kg$)<br><br>**Step 1: Regroup.** Regroup 1 ten (2 tens becomes 1 ten, 8 ones become 18 ones).<br>**Step 2: Subtract the Ones.** $18 - 9 = 9$.<br>**Step 3: Subtract the Tens.** $1 - 1 = 0$.<br>**Answer:** Brandon is left with 9kgs of potatoes. |
+| **1.** | Maina has 4kg beans and 18kg of maize. How many kg does she have altogether. | **Operation:** Addition ($4kg + 18kg$)<br><br>**Step 1: Add the Ones.** $4 + 8 = 12$. Write down 2 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 1 = 2$.<br>**Answer:** She has 22 kg altogether. |
+| **2.** | Kuria has 37kg of coffee and 16kg of tea leaves. How many kg does he have altogether? | **Operation:** Addition ($37kg + 16kg$)<br><br>**Step 1: Add the Ones.** $7 + 6 = 13$. Write down 3 and carry 1 ten.<br>**Step 2: Add the Tens.** $1 + 3 + 1 = 5$.<br>**Answer:** He has 53 kg altogether. |
+| **3.** | Kefa has 62kg of meat and 7kg of potatoes. How many kg does he have altogether? | **Operation:** Addition ($62kg + 7kg$)<br><br>**Step 1: Add the Ones.** $2 + 7 = 9$.<br>**Step 2: Add the Tens.** Bring down 6 tens.<br>**Answer:** He has 69 kg altogether. |
+| **4.** | A shopkeeper has 158kg of sugar. He sells 28kg. How many kg of sugar are left? | **Operation:** Subtraction ($158kg - 28kg$)<br><br>**Step 1: Subtract the Ones.** $8 - 8 = 0$.<br>**Step 2: Subtract the Tens.** $5 - 2 = 3$.<br>**Step 3: Subtract the Hundreds.** Bring down 1 hundred.<br>**Answer:** 130 kg of sugar are left. |
+| **5.** | Patel had 120kg of rice. he sold 75kg. How many kg were left. | **Operation:** Subtraction ($120kg - 75kg$)<br><br>**Step 1: Regroup.** Regroup 1 ten (2 tens becomes 1 ten, 0 ones become 10 ones).<br>**Step 2: Subtract the Ones.** $10 - 5 = 5$.<br>**Step 3: Subtract the Tens.** $1 - 7$. Regroup 1 hundred (1 hundred becomes 0 hundreds, 1 ten becomes 11 tens). $11 - 7 = 4$.<br>**Answer:** 45 kg were left. |
+| **6.** | Jerry bought 25kg of meat. He gave Elijah 17kgs. How many kg was he left with? | **Operation:** Subtraction ($25kg - 17kg$)<br><br>**Step 1: Regroup.** Regroup 1 ten (2 tens becomes 1 ten, 5 ones become 15 ones).<br>**Step 2: Subtract the Ones.** $15 - 7 = 8$.<br>**Step 3: Subtract the Tens.** $1 - 1 = 0$.<br>**Answer:** He was left with 8 kg. |
+| **7.** | Cyprine had 56kg of beans. She cooked 9kg. how many kg were left? | **Operation:** Subtraction ($56kg - 9kg$)<br><br>**Step 1: Regroup.** Regroup 1 ten (5 tens becomes 4 tens, 6 ones become 16 ones).<br>**Step 2: Subtract the Ones.** $16 - 9 = 7$.<br>**Step 3: Subtract the Tens.** Bring down 4 tens.<br>**Answer:** 47 kg were left. |
+| **8.** | Juma has 42kg of potatoes. She gave Fatuma 20kg. How many kg of potatoes was she left with? | **Operation:** Subtraction ($42kg - 20kg$)<br><br>**Step 1: Subtract the Ones.** $2 - 0 = 2$.<br>**Step 2: Subtract the Tens.** $4 - 2 = 2$.<br>**Answer:** She was left with 22 kg of potatoes. |
+
+### VII. MEASUREMENT: Capacity
+
+#### Week 7 Lesson 2 (Subtracting capacity in litres)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example** | A lorry was transporting 81 litres of water. On the way, 7 litres spilled. How many litres of water were remained? | **Operation:** Subtraction ($81 litres - 7 litres$)<br><br>**Step 1: Regroup.** Regroup 1 ten (8 tens becomes 7 tens, 1 one becomes 11 ones).<br>**Step 2: Subtract the Ones.** $11 - 7 = 4$.<br>**Step 3: Subtract the Tens.** Bring down 7 tens.<br>**Calculation:** $81 - 7 = 74$.<br>**Answer:** 74 litres remained. |
+| **1.** | Wambua has 53 litres of milk. He sold 19 litres. How many litres was he left with? | **Operation:** Subtraction ($53 litres - 19 litres$)<br><br>**Step 1: Regroup.** Regroup 1 ten (5 tens becomes 4 tens, 3 ones become 13 ones).<br>**Step 2: Subtract the Ones.** $13 - 9 = 4$.<br>**Step 3: Subtract the Tens.** $4 - 1 = 3$.<br>**Answer:** He was left with 34 litres. |
+| **2.** | Wafula has 443 litres of cooking oil. He used 72 litres. How many litres was he left with? | **Operation:** Subtraction ($443 litres - 72 litres$)<br><br>**Step 1: Subtract the Ones.** $3 - 2 = 1$.<br>**Step 2: Subtract the Tens.** $4 - 7$. Regroup 1 hundred (4 hundreds becomes 3 hundreds, 4 tens becomes 14 tens). $14 - 7 = 7$.<br>**Step 3: Subtract the Hundreds.** Bring down 3 hundreds.<br>**Answer:** He was left with 371 litres. |
+| **3.** | A family had 773 litres of water at a party. They used 429 litres. How many litres was left? | **Operation:** Subtraction ($773 litres - 429 litres$)<br><br>**Step 1: Regroup.** Regroup 1 ten (7 tens becomes 6 tens, 3 ones become 13 ones).<br>**Step 2: Subtract the Ones.** $13 - 9 = 4$.<br>**Step 3: Subtract the Tens.** $6 - 2 = 4$.<br>**Step 4: Subtract the Hundreds.** $7 - 4 = 3$.<br>**Answer:** 344 litres was left. |
+| **4.** | A vehicle had 517 litres of petrol. It used 134 litres. How many litres were left? | **Operation:** Subtraction ($517 litres - 134 litres$)<br><br>**Step 1: Subtract the Ones.** $7 - 4 = 3$.<br>**Step 2: Subtract the Tens.** $1 - 3$. Regroup 1 hundred (5 hundreds becomes 4 hundreds, 1 ten becomes 11 tens). $11 - 3 = 8$.<br>**Step 3: Subtract the Hundreds.** $4 - 1 = 3$.<br>**Answer:** 383 litres were left. |
+| **5.** | A school tank had 896 litres of water. Learners used 524 litres. How many litres were left? | **Operation:** Subtraction ($896 litres - 524 litres$)<br><br>**Step 1: Subtract the Ones.** $6 - 4 = 2$.<br>**Step 2: Subtract the Tens.** $9 - 2 = 7$.<br>**Step 3: Subtract the Hundreds.** $8 - 5 = 3$.<br>**Answer:** 372 litres were left. |
+
+### VIII. MEASUREMENT: Time
+
+#### Week 7 Lesson 4 (Adding time in hours and minutes)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **1.** | John used 2 hours and 45 minutes to cycle to the market. Rose used 4 hours and 5 minutes to walk to the same market. How many hours and minutes did they use altogether? | **Operation:** Addition (2 hrs 45 mins + 4 hrs 5 mins)<br><br>**Step 1: Add the Minutes.** $45 + 5 = 50$ minutes.<br>**Step 2: Add the Hours.** $2 + 4 = 6$ hours.<br>**Answer:** They used 6 hours and 50 minutes altogether. |
+| **2.** | Perpetua used 2 hours and 34 minutes to wash clothes. She used 2 hours and 15 minutes to clean the compound. How many hours and minutes did she use altogether? | **Operation:** Addition (2 hrs 34 mins + 2 hrs 15 mins)<br><br>**Step 1: Add the Minutes.** $34 + 15 = 49$ minutes.<br>**Step 2: Add the Hours.** $2 + 2 = 4$ hours.<br>**Answer:** She used 4 hours and 49 minutes altogether. |
+| **3.** | Teacher Joy used 1 hour and 15 minutes to teach language activities. She used 1 hour and 20 minutes to teach mathematics activities. How many hours and minutes did she use in teaching altogether? | **Operation:** Addition (1 hr 15 mins + 1 hr 20 mins)<br><br>**Step 1: Add the Minutes.** $15 + 20 = 35$ minutes.<br>**Step 2: Add the Hours.** $1 + 1 = 2$ hours.<br>**Answer:** She used 2 hours and 35 minutes in teaching altogether. |
+
+#### Week 7 Lesson 5 (Subtracting time in hours and minutes)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example** | Mr. Omolo used 1 hour and 45 minutes to run a race. Miss Claire used 1 hour and 15 minutes to run the same race. By how many hours and minutes was miss Claire faster than Mr. Omolo? | **Operation:** Subtraction (1 hr 45 mins - 1 hr 15 mins)<br><br>**Step 1: Subtract the Minutes.** $45 - 15 = 30$ minutes.<br>**Step 2: Subtract the Hours.** $1 - 1 = 0$ hours.<br>**Answer:** Miss Claire was 30 minutes faster. |
+| **1.** | A cook used 3 hours and 44 minutes to roast meat. He used 2 hours and 12 minutes to bake a cake. How many more hours and minutes did he use in roasting? | **Operation:** Subtraction (3 hrs 44 mins - 2 hrs 12 mins)<br><br>**Step 1: Subtract the Minutes.** $44 - 12 = 32$ minutes.<br>**Step 2: Subtract the Hours.** $3 - 2 = 1$ hour.<br>**Answer:** He used 1 hour and 32 minutes more in roasting. |
+| **2.** | A bus took 8 hours and 20 minutes to reach Nakuru. A matatu took 7 hours and 15 minutes. By how many hours and minutes was the matatu faster than the bus? | **Operation:** Subtraction (8 hrs 20 mins - 7 hrs 15 mins)<br><br>**Step 1: Subtract the Minutes.** $20 - 15 = 5$ minutes.<br>**Step 2: Subtract the Hours.** $8 - 7 = 1$ hour.<br>**Answer:** The matatu was 1 hour and 5 minutes faster. |
+| **3.** | A boda boda rider used 2 hours and 35 minutes to Pondamali market. A car used 1 hour and 25 minutes to reach the same market. By how many hours and minutes was the car faster than the boda boda? | **Operation:** Subtraction (2 hrs 35 mins - 1 hr 25 mins)<br><br>**Step 1: Subtract the Minutes.** $35 - 25 = 10$ minutes.<br>**Step 2: Subtract the Hours.** $2 - 1 = 1$ hour.<br>**Answer:** The car was 1 hour and 10 minutes faster. |
+
+### IX. MEASUREMENT: Money (Spending and Saving)
+
+#### Week 8 Lesson 3 (Spending and saving)
+| Problem No. | Full Question | Step-by-Step Solution |
+| :---: | :--- | :--- |
+| **Example** | John received sh.300 from his uncle. He spent sh. 50 on a book. How much did he save? | **Operation:** Subtraction ($300 - 50$)<br><br>**Step 1: Set up the subtraction.** Subtract spending (sh. 50) from initial amount (sh. 300).<br>**Calculation:** $300 - 50 = 250$.<br>**Answer:** He saved sh. 250. |
+| **2.** | Shillings before spending: 1000. Spending: 400. Saving: __________. | **Operation:** Subtraction ($1000 - 400$)<br><br>**Step 1: Subtract the spending from the initial amount.** $1000 - 400 = 600$.<br>**Answer:** Saving is sh. 600. |
+| **3.** | Shillings before spending: 650. Spending: 250. Saving: __________. | **Operation:** Subtraction ($650 - 250$)<br><br>**Step 1: Subtract the spending from the initial amount.** $650 - 250 = 400$.<br>**Answer:** Saving is sh. 400. |
+| **4.** | Shillings before spending: 500. Spending: 400. Saving: __________. | **Operation:** Subtraction ($500 - 400$)<br><br>**Step 1: Subtract the spending from the initial amount.** $500 - 400 = 100$.<br>**Answer:** Saving is sh. 100. |
+| **5.** | Shillings before spending: 200. Spending: 150. Saving: __________. | **Operation:** Subtraction ($200 - 150$)<br><br>**Step 1: Subtract the spending from the initial amount.** $200 - 150 = 50$.<br>**Answer:** Saving is sh. 50. |
+| **6.** | Shillings before spending: 400. Spending: 350. Saving: __________. | **Operation:** Subtraction ($400 - 350$)<br><br>**Step 1: Subtract the spending from the initial amount.** $400 - 350 = 50$.<br>**Answer:** Saving is sh. 50. |
+| **8.** | Shillings before spending: 700. Spending: __________. Saving: 400. | **Operation:** Subtraction ($700 - 400$)<br><br>**Step 1: Subtract the saving from the initial amount.** $700 - 400 = 300$.<br>**Answer:** Spending is sh. 300. |
+| **9.** | Shillings before spending: 800. Spending: __________. Saving: 300. | **Operation:** Subtraction ($800 - 300$)<br><br>**Step 1: Subtract the saving from the initial amount.** $800 - 300 = 500$.<br>**Answer:** Spending is sh. 500. |
+| **10.** | Shillings before spending: 900. Spending: __________. Saving: 500. | **Operation:** Subtraction ($900 - 500$)<br><br>**Step 1: Subtract the saving from the initial amount.** $900 - 500 = 400$.<br>**Answer:** Spending is sh. 400. |

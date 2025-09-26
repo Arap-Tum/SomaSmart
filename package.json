@@ -1,0 +1,24 @@
+{
+  "name": "whatsap",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@pinecone-database/pinecone": "^6.1.2",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.1"
+  }
+}

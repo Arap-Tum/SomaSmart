@@ -1,0 +1,124 @@
+II. Key Concepts and Skills to Master
+Numbers
+Ordinal Numbers: Understanding and identifying positions (first, second, third, etc.).
+Counting: Counting forward and backward in ones, twos, fives, tens, fifties, hundreds.
+Place Value: Identifying ones, tens, hundreds, and thousands in numbers.
+Number Words and Symbols: Reading and writing numbers in both forms (e.g., 25 as "twenty five").
+Number Patterns: Identifying rules (addition, subtraction, skip counting) and completing sequences.
+Fractions:Understanding half, quarter, and eighth as parts of a whole.
+Representing fractions visually (shading).
+Comparing simple fractions.
+Calculating fractions of a group (e.g., half of 10, a quarter of 8).
+Addition:Adding single-digit, two-digit, and three-digit numbers.
+Adding with regrouping (carrying over).
+Adding three single-digit numbers.
+Subtraction:Subtracting single-digit, two-digit, and three-digit numbers.
+Subtracting with regrouping (borrowing).
+Subtracting multiples of 10.
+Multiplication:Understanding multiplication as repeated addition.
+Using multiplication tables (up to 10x10).
+Solving word problems involving multiplication.
+Division:Understanding division as repeated subtraction.
+Using number lines for division.
+Relating division to multiplication.
+Solving word problems involving division.
+Measurement
+Length:Measuring and estimating lengths in metres.
+Adding and subtracting lengths.
+Mass:Measuring and estimating mass in kilograms (kg).
+Adding and subtracting mass.
+Capacity:Measuring and estimating capacity in litres.
+Adding and subtracting capacity.
+Time:Identifying parts of a clock (hour and minute hands).
+Telling time by the hour, half past, quarter past, quarter to, and specific minutes past/to the hour.
+Adding and subtracting time in hours and minutes.
+Money:Identifying Kenyan currency notes.
+Counting money (addition of notes).
+Understanding and calculating change.
+Understanding "balance" in transactions.
+Distinguishing between goods and services.
+Identifying needs and wants.
+Understanding spending and saving.
+Geometry
+Position and Direction: Giving and following directions (turning right, left, walking straight).
+Shapes: Naming basic geometric shapes (rectangle, triangle, oval, circle, square) and identifying straight and curved lines.
+Patterns: Completing and creating simple visual patterns using shapes.
+III. Review Questions
+Quiz (10 Short Answer Questions)
+What is the position of the fourth animal in a line of 5 animals?
+Count forward in twos, starting from 100. Write the next two numbers.
+Explain how the number 45 can be represented using tens and ones.
+If an object is cut into four equal parts, what is each part called? How is it written as a fraction?
+What are the three steps to add a 3-digit number to a 1-digit number without regrouping, using the example 324 + 5?
+Describe multiplication in terms of repeated addition, using the example 3 x 4.
+A shopkeeper has 25 kg of meat and sells 10 kg. How many kg are left?
+Identify the two hands on a clock face and describe what each measures.
+What is the main difference between a 'good' and a 'service' in the context of money?
+If you are facing a school and need to go to the bank, and the bank is on your left, what direction would you turn?
+Quiz Answer Key
+The fourth animal in a line of 5 is in the fourth position. This refers to its ordinal place in the sequence.
+Starting from 100, counting forward in twos: 100, 102, 104. The next two numbers are 102, 104.
+The number 45 can be represented as 4 tens and 5 ones. This is shown by the place value of each digit.
+Each part is called a quarter. It is written as 1/4.
+To add 324 + 5: First, add the ones (4 + 5 = 9). Second, record 9 in the ones column. Third, bring down the 2 in the tens column and the 3 in the hundreds column, resulting in 329.
+Multiplication as repeated addition means adding the same number multiple times. For 3 x 4, it means adding 4 three times: 4 + 4 + 4 = 12.
+To find out how many kg are left, subtract the sold amount from the initial amount: 25 kg - 10 kg = 15 kg.
+The two hands are the hour hand (shorter hand, measures hours) and the minute hand (longer hand, measures minutes).
+A good is a tangible item you can buy (e.g., book, flask), while a service is an action performed for you (e.g., haircut, transport).
+If the bank is on your left, you would turn left.
+Essay Format Questions (Do not provide answers)
+Explain how the concept of place value is fundamental to understanding whole numbers, using examples up to the thousands place.
+Compare and contrast addition and subtraction strategies for 3-digit numbers, highlighting how regrouping (carrying and borrowing) is applied in each operation.
+Discuss the different ways fractions (half, quarter, eighth) are introduced in Grade 3 mathematics, including their representation as parts of a whole and parts of a group.
+Describe how measurement concepts (length, mass, capacity, and time) are taught, emphasizing both actual measurement using standard units and the importance of estimation.
+Analyze the practical applications of money concepts, such as counting, change, and balance, in real-life shopping scenarios, and explain how these skills prepare learners for financial literacy.
+IV. Glossary of Key Terms
+Abacus: A calculating tool used for performing arithmetic processes, often shown with beads on rods representing place values.
+Addition: The process of combining two or more numbers to find their total sum.
+Balance (Money): The amount of money remaining after a purchase or transaction.
+Capacity: The maximum amount that something can contain, typically measured in litres for liquids.
+Change (Money): The money returned to a customer after they have paid more than the exact amount for a purchase, often given in different denominations.
+Clock Face: The surface of a clock that shows the numbers and hands for telling time.
+Counting Backwards: Counting in descending order.
+Counting Forwards: Counting in ascending order.
+Denominator: The bottom number in a fraction, indicating the total number of equal parts in the whole.
+Division: The process of splitting a number into equal parts or groups.
+Eighth: One of eight equal parts of a whole, written as 1/8.
+Estimate: To make an approximate calculation or judgment of the value, number, quantity, or extent of something.
+Fraction: A numerical quantity that is not a whole number (e.g., 1/2, 1/4).
+Goods: Tangible items that can be bought or sold.
+Half: One of two equal parts of a whole, written as 1/2.
+Hour Hand: The shorter hand on a clock face, indicating the hour.
+Kilogram (kg): A unit of mass in the metric system.
+Length: The measurement or extent of something from end to end, measured in metres.
+Litres: A unit of volume or capacity in the metric system.
+Mass: The amount of matter an object contains, measured in kilograms.
+Metres: A unit of length in the metric system.
+Minute Hand: The longer hand on a clock face, indicating the minutes.
+Money (Currency): A medium of exchange in the form of coins and banknotes.
+Multiplication: The process of repeated addition of the same number.
+Needs: Basic requirements for survival (e.g., food, shelter).
+Number Concept: Basic understanding of numbers, their sequence, and their meaning.
+Number Line: A straight line with numbers placed at equal intervals along its length.
+Number Patterns: Sequences of numbers that follow a specific rule or order.
+Number Symbols: The numerical figures used to represent numbers (e.g., 1, 2, 3).
+Number Words: The written form of numbers (e.g., one, two, three).
+Numerator: The top number in a fraction, indicating how many parts of the whole are being considered.
+Ones: The place value representing single units.
+Ordinal Numbers: Numbers indicating position in a sequence (e.g., first, second, third).
+Place Value: The value of a digit based on its position in a number.
+Position: The location or placement of an object or person.
+Patterns (Shapes): A repeating sequence of shapes or designs.
+Quarter: One of four equal parts of a whole, written as 1/4.
+Regrouping (Addition/Subtraction): The process of exchanging values between place values (e.g., 10 ones for 1 ten, or 1 ten for 10 ones).
+Repeated Addition: Adding the same number multiple times, which is the basis of multiplication.
+Repeated Subtraction: Subtracting the same number multiple times, which is the basis of division.
+Services: Actions performed for others, typically for payment.
+Shapes (Geometric): Distinct spatial forms or outlines (e.g., square, triangle, circle).
+Spending: Using money to buy goods or services.
+Subtraction: The process of taking one number away from another to find the difference.
+Tens: The place value representing groups of ten.
+Thousands: The place value representing groups of one thousand.
+Whole Numbers: Positive numbers without fractions or decimals (0, 1, 2, 3, ...).
+Wants: Things that people desire but are not essential for survival.
+Word Problems: Mathematical problems presented in a narrative format.
