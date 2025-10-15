@@ -75,3 +75,8 @@ client.on("message", async (msg) => {
 
 // Initialize client (starts WhatsApp connection)
 client.initialize();
+
+const PORT = process.env.PORT || 5001;
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`✅ Server listening on port ${PORT}`);
+});
