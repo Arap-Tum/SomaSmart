@@ -6,6 +6,13 @@ import qrcode from "qrcode-terminal"; // Display QR code
 import dotenv from "dotenv"; // Load API keys
 import { askAI } from "./ai.js"; // AI functionnp
 
+import express from "express";
+const app = express();
+
+app.get("/", (req, res) => {
+  res.send("✅ SomaSmart WhatsApp bot is running!");
+});
+
 dotenv.config(); // Load .env variables
 
 // ================================================
@@ -77,6 +84,6 @@ client.on("message", async (msg) => {
 client.initialize();
 
 const PORT = process.env.PORT || 5001;
-app.listen(PORT, "0.0.0.0", () => {
+app.listen(PORT, () => {
   console.log(`✅ Server listening on port ${PORT}`);
 });
