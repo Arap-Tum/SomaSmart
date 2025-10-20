@@ -9,6 +9,15 @@ import { askAI } from "./ai.js"; // AI functionnp
 import express from "express";
 const app = express();
 
+// ======================MPESA ==============
+
+import mpesaRoutes from "./routes/mpesa.js";
+
+app.use(express.json());
+app.use("/api/mpesa", mpesaRoutes);
+
+// ===============================TEST ================
+
 app.get("/", (req, res) => {
   res.send("✅ SomaSmart WhatsApp bot is running!");
 });
